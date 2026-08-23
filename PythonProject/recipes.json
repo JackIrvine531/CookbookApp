@@ -1,0 +1,236 @@
+[
+    {
+        "id": 1,
+        "title": "Spaghetti al Pomodoro",
+        "subtitle": "A slow-cooked tomato sauce with good olive oil and fresh basil",
+        "category": "Pasta",
+        "prep_time": "15 min",
+        "cook_time": "45 min",
+        "serves": 4,
+        "difficulty": "Easy",
+
+        "intro": "The simplest things demand the most care. This sauce asks nothing of you except patience and good ingredients — San Marzano tomatoes, a generous pour of oil, and the discipline to leave it alone while it cooks.",
+
+        "image": "images/spaghetti.jpg",
+
+        "ingredients": [
+            {
+                "amount": "500 g",
+                "item": "spaghetti"
+            },
+            {
+                "amount": "2 × 400 g",
+                "item": "tins whole San Marzano tomatoes"
+            },
+            {
+                "amount": "5 tbsp",
+                "item": "extra-virgin olive oil, plus more to finish"
+            },
+            {
+                "amount": "4 cloves",
+                "item": "garlic, peeled and lightly smashed"
+            },
+            {
+                "amount": "1 small",
+                "item": "dried chilli, crumbled"
+            },
+            {
+                "amount": "1 handful",
+                "item": "fresh basil leaves"
+            },
+            {
+                "amount": "",
+                "item": "fine sea salt"
+            }
+        ],
+
+        "steps": [
+            "Warm the olive oil in a wide, heavy pan over medium-low heat. Add the garlic and chilli and cook gently for 5 minutes until faintly golden at the edges.",
+            "Crush the tomatoes by hand into the pan. Season with salt. Raise the heat to a bubble, then lower to a gentle simmer.",
+            "Cook uncovered for 35–40 minutes, stirring occasionally, until thick and glossy. Remove the garlic cloves.",
+            "Bring a large pot of well-salted water to a boil. Cook spaghetti until just short of al dente.",
+            "Lift the pasta into the sauce with tongs, adding a splash of pasta water. Toss over medium heat for 2 minutes. Finish with raw olive oil and torn basil."
+        ],
+
+        "note": "A pinch of sugar and a strip of lemon zest added with the tomatoes will lift the sauce considerably."
+    },
+
+    {
+        "id": 2,
+        "title": "Roast Chicken with Herbs",
+        "subtitle": "Crisp-skinned, herb-buttered, rested properly",
+        "category": "Poultry",
+        "prep_time": "20 min",
+        "cook_time": "1 hr 20 min",
+        "serves": 4,
+        "difficulty": "Moderate",
+
+        "intro": "Roast chicken separates confident cooks from anxious ones. No tricks — just dry skin, flavoured butter, high heat, and the discipline to let it rest.",
+
+        "image": "images/roast_chicken.jpg",
+
+        "ingredients": [
+            {
+                "amount": "1 × 1.8 kg",
+                "item": "free-range chicken, at room temperature"
+            },
+            {
+                "amount": "80 g",
+                "item": "unsalted butter, softened"
+            },
+            {
+                "amount": "4 sprigs",
+                "item": "fresh thyme, leaves picked"
+            },
+            {
+                "amount": "2 sprigs",
+                "item": "fresh rosemary, finely chopped"
+            },
+            {
+                "amount": "3 cloves",
+                "item": "garlic, minced"
+            },
+            {
+                "amount": "1",
+                "item": "lemon, zested and halved"
+            },
+            {
+                "amount": "2 tbsp",
+                "item": "olive oil"
+            },
+            {
+                "amount": "",
+                "item": "flaky sea salt and black pepper"
+            }
+        ],
+
+        "steps": [
+            "Take the chicken from the refrigerator at least an hour before cooking. Preheat oven to 220 °C.",
+            "Mix butter with thyme, rosemary, garlic, and lemon zest. Season well.",
+            "Pat the chicken completely dry. Push two-thirds of the herb butter beneath the breast skin, rub the rest over the outside.",
+            "Season the cavity, stuff with lemon halves. Drizzle with oil and finish with flaky salt.",
+            "Roast for 20 minutes at 220 °C, then reduce to 180 °C for a further 55–60 minutes, basting twice.",
+            "Rest loosely tented with foil for at least 20 minutes before carving."
+        ],
+
+        "note": "Resting is not optional — it is when the juices redistribute. A properly rested bird will always be more succulent."
+    },
+
+    {
+        "id": 3,
+        "title": "Country Sourdough",
+        "subtitle": "An open-crumbed, naturally leavened loaf with a blistered crust",
+        "category": "Bread",
+        "prep_time": "30 min + 18 hr ferment",
+        "cook_time": "50 min",
+        "serves": 1,
+        "difficulty": "Advanced",
+
+        "intro": "Bread is as old as civilisation, and this loaf will teach you something each time you bake it. The process spans two days, but the active work is minutes.",
+
+        "image": "images/sourdough.jpg",
+
+        "ingredients": [
+            {
+                "amount": "450 g",
+                "item": "strong white bread flour"
+            },
+            {
+                "amount": "50 g",
+                "item": "whole wheat flour"
+            },
+            {
+                "amount": "375 g",
+                "item": "water at 30 °C"
+            },
+            {
+                "amount": "100 g",
+                "item": "active sourdough starter (100% hydration)"
+            },
+            {
+                "amount": "10 g",
+                "item": "fine sea salt"
+            }
+        ],
+
+        "steps": [
+            "Autolyse: Mix flour and 325 g water until no dry flour remains. Cover and rest 45 minutes.",
+            "Add starter and remaining water; mix. Rest 30 minutes, then add salt and mix again.",
+            "Bulk fermentation: Over 4 hours perform 4 sets of coil folds at 30-minute intervals.",
+            "Pre-shape into a loose round. Rest uncovered 20–30 minutes, then final-shape and place seam-side-up in a floured banneton.",
+            "Cover and refrigerate overnight, 10–14 hours.",
+            "Preheat a Dutch oven at 250 °C for 1 hour. Score the cold dough and bake covered 20 minutes, then uncovered 25–30 minutes until deeply mahogany.",
+            "Cool on a wire rack for at least 2 hours before slicing."
+        ],
+
+        "note": "If your starter doesn't double within 4–8 hours of feeding, give it two or three more feedings before attempting this."
+    },
+
+    {
+        "id": 4,
+        "title": "Spiced Lamb Shoulder",
+        "subtitle": "Slow-roasted with cumin, coriander, and preserved lemon",
+        "category": "Meat",
+        "prep_time": "25 min",
+        "cook_time": "4 hr",
+        "serves": 6,
+        "difficulty": "Easy",
+
+        "intro": "Lamb shoulder is unforgiving only if you rush it. Given time and low heat, the collagen dissolves, the fat renders, and you are left with meat that falls apart at the press of a spoon.",
+
+        "image": "images/lamb.jpg",
+
+        "ingredients": [
+            {
+                "amount": "1 × 2.2 kg",
+                "item": "bone-in lamb shoulder"
+            },
+            {
+                "amount": "2 tsp",
+                "item": "ground cumin"
+            },
+            {
+                "amount": "2 tsp",
+                "item": "ground coriander"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "smoked paprika"
+            },
+            {
+                "amount": "½ tsp",
+                "item": "ground cinnamon"
+            },
+            {
+                "amount": "2",
+                "item": "preserved lemon quarters, skin finely chopped"
+            },
+            {
+                "amount": "4 cloves",
+                "item": "garlic, minced"
+            },
+            {
+                "amount": "3 tbsp",
+                "item": "olive oil"
+            },
+            {
+                "amount": "250 ml",
+                "item": "chicken stock or water"
+            },
+            {
+                "amount": "",
+                "item": "sea salt and black pepper"
+            }
+        ],
+
+        "steps": [
+            "Make the spice paste: combine all spices, preserved lemon, garlic, and olive oil. Season generously.",
+            "Score the lamb deeply all over. Massage the paste into every surface and into the cuts. Refrigerate overnight if possible.",
+            "Bring lamb to room temperature 1 hour before cooking. Preheat oven to 220 °C. Place in a deep tray, pour in stock, roast uncovered 20 minutes.",
+            "Cover tightly with double foil, reduce to 160 °C, and roast 3–3.5 hours until a skewer meets no resistance near the bone.",
+            "Remove foil, raise to 200 °C, roast 15 minutes more to lacquer. Rest 30 minutes, then pull apart with forks."
+        ],
+
+        "note": "The braising juices are extraordinary — skim off excess fat and serve them alongside as a sauce."
+    }
+]
