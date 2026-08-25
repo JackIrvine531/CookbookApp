@@ -1,169 +1,283 @@
 [
     {
         "id": 1,
-        "title": "Spaghetti al Pomodoro",
-        "subtitle": "A slow-cooked tomato sauce with good olive oil and fresh basil",
-        "category": "Pasta",
-        "prep_time": "15 min",
-        "cook_time": "45 min",
+        "title": "Special Fried Rice",
+        "subtitle": "A peppery takeout style special fried rice",
+        "category": "Rice",
+        "prep_time": "50 min",
+        "cook_time": "30 min",
         "serves": 4,
         "difficulty": "Easy",
 
-        "intro": "The simplest things demand the most care. This sauce asks nothing of you except patience and good ingredients — San Marzano tomatoes, a generous pour of oil, and the discipline to leave it alone while it cooks.",
+        "intro": "This recipe is by Jason Farmer, where he tasted fried rice from 30+ different takeaways and then distilled them into the following recipe for home use.",
 
-        "image": "images/spaghetti.jpg",
+        "image": "images/special_fried_rice_og.jpg",
 
         "ingredients": [
             {
-                "amount": "500 g",
-                "item": "spaghetti"
+                "amount": "3 tbsp",
+                "item": "Neutral oil"
             },
             {
-                "amount": "2 × 400 g",
-                "item": "tins whole San Marzano tomatoes"
+                "amount": "4 cups",
+                "item": "Cooked long grain rice"
             },
             {
-                "amount": "5 tbsp",
-                "item": "extra-virgin olive oil, plus more to finish"
+                "amount": "2",
+                "item": "Eggs, beaten"
             },
             {
-                "amount": "4 cloves",
-                "item": "garlic, peeled and lightly smashed"
+                "amount": "450g",
+                "item": "Chicken breast - cut into slivers"
             },
             {
-                "amount": "1 small",
-                "item": "dried chilli, crumbled"
+                "amount": "1",
+                "item": "Onion - diced"
+            },
+            {
+                "amount": "3",
+                "item": "Carrots - diced"
+            },
+            {
+                "amount": "4",
+                "item": "Garlic cloves - grated"
             },
             {
                 "amount": "1 handful",
-                "item": "fresh basil leaves"
+                "item": "Bean sprouts"
             },
             {
-                "amount": "",
-                "item": "fine sea salt"
+                "amount": "1 handful",
+                "item": "Frozen peas"
+            },
+            {
+                "amount": "1 handful",
+                "item": "Scallions - chopped"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Suger"
+            },
+            {
+                "amount": "4 tbsp",
+                "item": "Light soy sauce"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Dark soy sauce"
+            },
+            {
+                "amount": "1/2 tbsp",
+                "item": "MSG"
+            },
+            {
+                "amount": "1/2 tbsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "2 tsp",
+                "item": "White pepper"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Shaoxing wine"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Toasted sesame oil"
+            },
+            {
+                "amount": "2 pinches",
+                "item": "Sesame seeds"
             }
         ],
 
         "steps": [
-            "Warm the olive oil in a wide, heavy pan over medium-low heat. Add the garlic and chilli and cook gently for 5 minutes until faintly golden at the edges.",
-            "Crush the tomatoes by hand into the pan. Season with salt. Raise the heat to a bubble, then lower to a gentle simmer.",
-            "Cook uncovered for 35–40 minutes, stirring occasionally, until thick and glossy. Remove the garlic cloves.",
-            "Bring a large pot of well-salted water to a boil. Cook spaghetti until just short of al dente.",
-            "Lift the pasta into the sauce with tongs, adding a splash of pasta water. Toss over medium heat for 2 minutes. Finish with raw olive oil and torn basil."
+            "Heat wok or pan over medium high heat until lightly smoking, add 1 tbsp Neutral oil, turn heat to low and add Eggs, scramble and remove from pan setting aside for later and wipe down the pan.",
+            "Return pan to medium heat, add 1 tbsp Neutral oil, add Chicken and cook until 90% done about 2-3 minutes, remove Chicken from pan and set aside and wipe down the pan.",
+            "Return pan to medium heat, add 1 tbsp Neutral oil, add Onion and Carrot and cook until Onion is transparent about 1-2 minutes, add Garlic and for cook 1 minute .",
+            "Add Rice to the cooked vegetables breaking up any clumps and cook for 2-4 minutes, add the Chicken & Eggs and mix together well.",
+            "Push the rice to the center of the pan and add the sauce around the rim of the pan, stir until rice and sauce are fully incorporated, add the seasoning mix and stir into the rice.",
+            "Add the Scallions and Bean sprouts, mix together, then push the rice to the center again and add the Shaoxing wine to the rim of the pan, stir together.",
+            "Turn off the heat, add the Toasted sesame oil, mix together.",
+            "Adjust seasoning with Salt and White pepper, Plate, top with Sesame seeds.",
+            "Serve."
         ],
 
-        "note": "A pinch of sugar and a strip of lemon zest added with the tomatoes will lift the sauce considerably."
+        "note": "Save some Scallion for a garnish along with the Sesame seeds"
     },
 
     {
         "id": 2,
-        "title": "Roast Chicken with Herbs",
-        "subtitle": "Crisp-skinned, herb-buttered, rested properly",
-        "category": "Poultry",
-        "prep_time": "20 min",
+        "title": "Alfredo Pasta Bake",
+        "subtitle": "A creamy, garlic, and cheesy pasta bake",
+        "category": "Pasta",
+        "prep_time": "10 min",
         "cook_time": "1 hr 20 min",
-        "serves": 4,
-        "difficulty": "Moderate",
+        "serves": 5,
+        "difficulty": "Easy",
 
-        "intro": "Roast chicken separates confident cooks from anxious ones. No tricks — just dry skin, flavoured butter, high heat, and the discipline to let it rest.",
+        "intro": "A mouthwatering creamy garlic alfredo pasta bake, topped with crispy melted cheese by Tasty.",
 
-        "image": "images/roast_chicken.jpg",
+        "image": "images/alfredo_pasta_bake.jpg",
 
         "ingredients": [
             {
-                "amount": "1 × 1.8 kg",
-                "item": "free-range chicken, at room temperature"
+                "amount": "1 tbsp",
+                "item": "Neutral oil"
             },
             {
-                "amount": "80 g",
-                "item": "unsalted butter, softened"
+                "amount": "3",
+                "item": "Chicken breasts - diced"
             },
             {
-                "amount": "4 sprigs",
-                "item": "fresh thyme, leaves picked"
+                "amount": "4",
+                "item": "Garlic cloves - grated"
             },
             {
-                "amount": "2 sprigs",
-                "item": "fresh rosemary, finely chopped"
+                "amount": "600ml",
+                "item": "Chicken stock"
             },
             {
-                "amount": "3 cloves",
-                "item": "garlic, minced"
+                "amount": "600ml",
+                "item": "Double cream"
             },
             {
-                "amount": "1",
-                "item": "lemon, zested and halved"
+                "amount": "450g",
+                "item": "Penne pasta"
             },
             {
-                "amount": "2 tbsp",
-                "item": "olive oil"
+                "amount": "150g",
+                "item": "Grated parmesan"
             },
             {
-                "amount": "",
-                "item": "flaky sea salt and black pepper"
+                "amount": "225g",
+                "item": "Grated mozzarella"
+            },
+            {
+                "amount": "1 handful",
+                "item": "Fresh parsley - chopped"
+            },
+            {
+                "amount": "To taste",
+                "item": "Salt & Pepper"
             }
         ],
 
         "steps": [
-            "Take the chicken from the refrigerator at least an hour before cooking. Preheat oven to 220 °C.",
-            "Mix butter with thyme, rosemary, garlic, and lemon zest. Season well.",
-            "Pat the chicken completely dry. Push two-thirds of the herb butter beneath the breast skin, rub the rest over the outside.",
-            "Season the cavity, stuff with lemon halves. Drizzle with oil and finish with flaky salt.",
-            "Roast for 20 minutes at 220 °C, then reduce to 180 °C for a further 55–60 minutes, basting twice.",
-            "Rest loosely tented with foil for at least 20 minutes before carving."
+            "In a pot, heat oil and add chicken. Season chicken with salt and pepper, add garlic, then brown the chicken. Add broth, heavy cream, and pasta, and bring to a boil. Cover and reduce the heat to a simmer for 15-20 min.",
+            "Turn off heat and stir in 1 ½ cups of parmesan cheese. Pour half of the pasta into a greased 11x7 inch or 9x13 inch baking dish. Sprinkle evenly with 1 cup of mozzarella cheese. Layer the remaining half of the pasta evenly on top. Sprinkle evenly with 1 cup of mozzarella and ½ cup of parmesan.",
+            "Broil 10 - 15 minutes, or until the cheese is golden brown. Remove and sprinkle with fresh parsley.",
+            "Serve."
         ],
 
-        "note": "Resting is not optional — it is when the juices redistribute. A properly rested bird will always be more succulent."
+        "note": "Rest for at least 10 minutes to let the pasta and sauce set."
     },
 
     {
         "id": 3,
-        "title": "Country Sourdough",
-        "subtitle": "An open-crumbed, naturally leavened loaf with a blistered crust",
-        "category": "Bread",
-        "prep_time": "30 min + 18 hr ferment",
-        "cook_time": "50 min",
-        "serves": 1,
-        "difficulty": "Advanced",
+        "title": "Chilli",
+        "subtitle": "A satisfying, hearty beef and bean Chili recipe",
+        "category": "Rice",
+        "prep_time": "30 min",
+        "cook_time": "1 hr",
+        "serves": 6,
+        "difficulty": "Easy",
 
-        "intro": "Bread is as old as civilisation, and this loaf will teach you something each time you bake it. The process spans two days, but the active work is minutes.",
+        "intro": "Preppy Kitchens Mouthwatering beef and bean chilli",
 
-        "image": "images/sourdough.jpg",
+        "image": "images/chilli_pk.jpg",
 
         "ingredients": [
             {
-                "amount": "450 g",
-                "item": "strong white bread flour"
+                "amount": "2 tbsp",
+                "item": "Neutral oil"
             },
             {
-                "amount": "50 g",
-                "item": "whole wheat flour"
+                "amount": "1 large",
+                "item": "Onion - diced"
             },
             {
-                "amount": "375 g",
-                "item": "water at 30 °C"
+                "amount": "2",
+                "item": "Bell peppers - diced"
             },
             {
-                "amount": "100 g",
-                "item": "active sourdough starter (100% hydration)"
+                "amount": "4",
+                "item": "Garlic cloves - grated"
             },
             {
-                "amount": "10 g",
-                "item": "fine sea salt"
+                "amount": "450g",
+                "item": "Beef mince"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Tomato paste"
+            },
+            {
+                "amount": "3 tbsp",
+                "item": "Medium chilli powder"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Ground cumin"
+            },
+            {
+                "amount": "1 + 1/2 tbsp",
+                "item": "Dried Oregano"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "1/2 tsp",
+                "item": "Cayenne pepper"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Ground black pepper"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Cocoa powder"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Brown suger"
+            },
+            {
+                "amount": "400g",
+                "item": "Diced tomatoes"
+            },
+            {
+                "amount": "225g",
+                "item": "Tomato passata"
+            },
+            {
+                "amount": "400g",
+                "item": "Red kidney beans - rinsed and drained"
+            },
+            {
+                "amount": "400g",
+                "item": "Pinto beans - rinsed and drained"
+            },
+            {
+                "amount": "480ml",
+                "item": "Beef stock"
             }
         ],
 
         "steps": [
-            "Autolyse: Mix flour and 325 g water until no dry flour remains. Cover and rest 45 minutes.",
-            "Add starter and remaining water; mix. Rest 30 minutes, then add salt and mix again.",
-            "Bulk fermentation: Over 4 hours perform 4 sets of coil folds at 30-minute intervals.",
-            "Pre-shape into a loose round. Rest uncovered 20–30 minutes, then final-shape and place seam-side-up in a floured banneton.",
-            "Cover and refrigerate overnight, 10–14 hours.",
-            "Preheat a Dutch oven at 250 °C for 1 hour. Score the cold dough and bake covered 20 minutes, then uncovered 25–30 minutes until deeply mahogany.",
-            "Cool on a wire rack for at least 2 hours before slicing."
+            "Heat the Oil in a large dutch oven over medium high heat, add the Onion and Bell pepper and cook, stirring frequently, until slightly softened, about 5 minutes, add the Garlic and cook for 1 more minute.",
+            "Add the Mince beef and cook for about 5 minutes, breaking into small pieces with a wooden spoon until no longer pink.",
+            "Reduce the heat to medium, add the Tomato paste and cook for 1 minute, add the Chilli powder, Cumin, Oregano, Salt, Cayenne, and Black Pepper, cook for 1 minute stirring frequently, until the spices are aromatic, add the Cocoa powder and Brown suger, mix for 1 minute.",
+            "Stir in the Diced tomatoes, Tomato passata, Kidney beans, Pinto beans, and Beef stock, scraping the bottom of the dutch oven to loosen any browned bits and bring to a simmer. ",
+            "Reduce the heat to medium low, and simmer uncovered for 30-45 minutes until the chilli thickens, season with more Salt and Black pepper to taste.",
+            "Plate and top with Grated cheese, Sour cream, Scallions, and Doritos.",
+            "Serve"
         ],
 
-        "note": "If your starter doesn't double within 4–8 hours of feeding, give it two or three more feedings before attempting this."
+        "note": "can be nice with chips instead of rice, go easy on the Grated cheese as it can mute the flavour of the chilli, and the Doritos are pretty much a must with this dish"
     },
 
     {

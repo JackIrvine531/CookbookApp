@@ -110,13 +110,13 @@ class MetaItem(BoxLayout):
         super().__init__(
             orientation="vertical",
             size_hint_y=None,
-            height=dp(50),
+            height=dp(52),
             **kwargs
         )
 
         title = Label(
             text=label.upper(),
-            font_size=sp(9),
+            font_size=sp(10),
             bold=True,
             color=OCHRE,
             size_hint_y=None,
@@ -149,7 +149,7 @@ class MetaItem(BoxLayout):
 
 
 # =============================================================================
-# RECIPE CARD
+# RECIPE CARD - MOBILE
 # =============================================================================
 
 class RecipeCard(RecycleDataViewBehavior, BoxLayout):
@@ -159,7 +159,9 @@ class RecipeCard(RecycleDataViewBehavior, BoxLayout):
         super().__init__(
             orientation="vertical",
             size_hint_y=None,
-            height=dp(250),
+            height=dp(260),
+            padding=dp(0),
+            spacing=dp(0),
             **kwargs
         )
 
@@ -171,12 +173,13 @@ class RecipeCard(RecycleDataViewBehavior, BoxLayout):
         # ---------------------------------------------------------
 
         with self.canvas.before:
+
             Color(*PARCHMENT)
 
             self.bg = RoundedRectangle(
                 pos=self.pos,
                 size=self.size,
-                radius=[dp(6)]
+                radius=[dp(8)]
             )
 
         self.bind(
@@ -190,13 +193,17 @@ class RecipeCard(RecycleDataViewBehavior, BoxLayout):
 
         self.image = AsyncImage(
             source="",
+
             allow_stretch=True,
-            keep_ratio=False,
+            keep_ratio=True,
+
             size_hint_y=None,
-            height=dp(135),
+            height=dp(145),
         )
 
-        self.add_widget(self.image)
+        self.add_widget(
+            self.image
+        )
 
         # ---------------------------------------------------------
         # Text area
@@ -204,56 +211,106 @@ class RecipeCard(RecycleDataViewBehavior, BoxLayout):
 
         self.text_area = BoxLayout(
             orientation="vertical",
+
+            size_hint_y=None,
+            height=dp(115),
+
             padding=(
                 dp(14),
                 dp(8),
                 dp(14),
                 dp(8)
             ),
-            spacing=dp(2),
+
+            spacing=dp(1),
         )
 
+        # ---------------------------------------------------------
         # Category
+        # ---------------------------------------------------------
+
         self.category_label = Label(
             text="",
+
             font_size=sp(9),
             bold=True,
+
             color=OCHRE,
+
             size_hint_y=None,
-            height=dp(14),
+            height=dp(15),
+
             halign="left",
+            valign="middle",
+
+            text_size=(None, None),
         )
 
+        # ---------------------------------------------------------
         # Title
+        # ---------------------------------------------------------
+
         self.title_label = Label(
             text="",
-            font_size=sp(16),
+
+            font_size=sp(17),
             bold=True,
+
             color=INK,
+
             size_hint_y=None,
-            height=dp(23),
+
+            height=dp(24),
+
             halign="left",
+            valign="middle",
+
+            shorten=True,
+            shorten_from="right",
         )
 
+        # ---------------------------------------------------------
         # Subtitle
+        # ---------------------------------------------------------
+
         self.subtitle_label = Label(
             text="",
+
             font_size=sp(11),
             italic=True,
+
             color=STONE,
+
             size_hint_y=None,
-            height=dp(30),
+
+            height=dp(28),
+
             halign="left",
+            valign="top",
+
+            shorten=True,
+            shorten_from="right",
         )
 
-        # Meta information
+        # ---------------------------------------------------------
+        # Meta
+        # ---------------------------------------------------------
+
         self.meta_label = Label(
             text="",
+
             font_size=sp(10),
+
             color=STONE,
+
             size_hint_y=None,
-            height=dp(18),
+            height=dp(20),
+
             halign="left",
+            valign="middle",
+
+            shorten=True,
+            shorten_from="right",
         )
 
         self.text_area.add_widget(
@@ -269,6 +326,10 @@ class RecipeCard(RecycleDataViewBehavior, BoxLayout):
         )
 
         self.text_area.add_widget(
+            Widget()
+        )
+
+        self.text_area.add_widget(
             self.meta_label
         )
 
@@ -276,16 +337,25 @@ class RecipeCard(RecycleDataViewBehavior, BoxLayout):
             self.text_area
         )
 
+    # ---------------------------------------------------------
+    # Background
+    # ---------------------------------------------------------
+
     def update_background(self, *_):
 
         self.bg.pos = self.pos
         self.bg.size = self.size
 
     # ---------------------------------------------------------
-    # RecycleView updates this method whenever a card is reused
+    # Recipe data
     # ---------------------------------------------------------
 
-    def refresh_view_attrs(self, rv, index, data):
+    def refresh_view_attrs(
+        self,
+        rv,
+        index,
+        data
+    ):
 
         changed = super().refresh_view_attrs(
             rv,
@@ -296,9 +366,14 @@ class RecipeCard(RecycleDataViewBehavior, BoxLayout):
         self.rv = rv
         self.recipe = data.get("recipe")
 
+        if not hasattr(self, "image"):
+            return changed
+
         if self.recipe:
 
-            self.image.source = get_image_path(self.recipe["image"])
+            self.image.source = get_image_path(
+                self.recipe["image"]
+            )
 
             self.category_label.text = (
                 self.recipe["category"].upper()
@@ -321,7 +396,7 @@ class RecipeCard(RecycleDataViewBehavior, BoxLayout):
         return changed
 
     # ---------------------------------------------------------
-    # Touch handling
+    # Touch
     # ---------------------------------------------------------
 
     def on_touch_up(self, touch):
@@ -340,32 +415,42 @@ class RecipeCard(RecycleDataViewBehavior, BoxLayout):
 
 
 # =============================================================================
-# RECIPE RECYCLE VIEW
+# RECIPE RECYCLE VIEW - MOBILE
 # =============================================================================
 
 class RecipeRecycleView(RecycleView):
 
-    def __init__(self, parent_screen, **kwargs):
+    def __init__(
+        self,
+        parent_screen,
+        **kwargs
+    ):
 
         super().__init__(**kwargs)
 
         self.parent_screen = parent_screen
 
-        # ---------------------------------------------------------
-        # Layout manager
-        # ---------------------------------------------------------
-
         layout = RecycleBoxLayout(
-            default_size=(None, dp(250)),
-            default_size_hint=(1, None),
+
+            orientation="vertical",
+
+            default_size=(
+                None,
+                dp(260)
+            ),
+
+            default_size_hint=(
+                1,
+                None
+            ),
 
             size_hint_y=None,
 
             padding=(
-                dp(16),
-                dp(16),
-                dp(16),
-                dp(16)
+                dp(12),
+                dp(12),
+                dp(12),
+                dp(20)
             ),
 
             spacing=dp(12),
@@ -377,15 +462,13 @@ class RecipeRecycleView(RecycleView):
             )
         )
 
-        self.add_widget(layout)
+        self.add_widget(
+            layout
+        )
 
         self.layout_manager = layout
 
         self.viewclass = RecipeCard
-
-    # ---------------------------------------------------------
-    # Populate list
-    # ---------------------------------------------------------
 
     def set_recipes(self, recipes):
 
@@ -428,19 +511,17 @@ class RecipeListScreen(Screen):
 
         header = BoxLayout(
             orientation="vertical",
-
             size_hint_y=None,
-
-            height=dp(145),
+            height=dp(125),
 
             padding=(
-                dp(18),
-                dp(14),
-                dp(18),
-                dp(10)
+                dp(16),
+                dp(10),
+                dp(16),
+                dp(8)
             ),
 
-            spacing=dp(2),
+            spacing=dp(1),
         )
 
         # Header background
@@ -482,11 +563,11 @@ class RecipeListScreen(Screen):
         # Main heading
         main_title = Label(
             text="Jack's Kitchen",
-            font_size=sp(28),
+            font_size=sp(25),
             bold=True,
             color=INK,
             size_hint_y=None,
-            height=dp(38),
+            height=dp(34),
             halign="left",
             valign="middle",
         )
@@ -510,8 +591,10 @@ class RecipeListScreen(Screen):
         # Search box
         self.search = TextInput(
             hint_text="Search recipes...",
+
             size_hint_y=None,
-            height=dp(42),
+            height=dp(44),
+
             font_size=sp(14),
 
             foreground_color=INK,
@@ -532,7 +615,7 @@ class RecipeListScreen(Screen):
 
             padding=(
                 dp(12),
-                dp(10)
+                dp(11)
             ),
         )
 
@@ -662,8 +745,6 @@ class RecipeDetailScreen(Screen):
     # LOAD RECIPE
     # -------------------------------------------------------------------------
 
-    def get_image_path(image_path):
-        return os.path.join(BASE_DIR, image_path)
 
     def load_recipe(self, recipe):
 
@@ -712,14 +793,14 @@ class RecipeDetailScreen(Screen):
 
         # Back button
         back_btn = Button(
-            text="‹  All Recipes",
+            text="‹  Recipes",
 
             size_hint=(None, None),
 
-            width=dp(140),
+            width=dp(105),
             height=dp(44),
 
-            font_size=sp(13),
+            font_size=sp(14),
 
             background_normal="",
 
@@ -804,10 +885,10 @@ class RecipeDetailScreen(Screen):
             size_hint_y=None,
 
             padding=(
-                dp(20),
                 dp(16),
-                dp(20),
-                dp(32)
+                dp(14),
+                dp(16),
+                dp(30)
             ),
 
             spacing=dp(0),
@@ -820,26 +901,33 @@ class RecipeDetailScreen(Screen):
         )
 
         # =====================================================================
-        # HERO IMAGE
+        # HERO IMAGE - RESPONSIVE 4:3
         # =====================================================================
 
         img = AsyncImage(
             source=get_image_path(recipe["image"]),
+
             allow_stretch=True,
-            keep_ratio=False,
+            keep_ratio=True,
+
+            size_hint_x=1,
             size_hint_y=None,
+
             height=dp(200),
+        )
+
+        def update_image_height(widget, *_):
+
+            if widget.width > 0:
+                # Maintain 4:3 aspect ratio
+                widget.height = widget.width * 0.75
+
+        img.bind(
+            width=update_image_height
         )
 
         body.add_widget(
             img
-        )
-
-        body.add_widget(
-            Widget(
-                size_hint_y=None,
-                height=dp(16)
-            )
         )
 
         # =====================================================================
@@ -849,7 +937,7 @@ class RecipeDetailScreen(Screen):
         title = Label(
             text=recipe["title"],
 
-            font_size=sp(26),
+            font_size=sp(24),
 
             bold=True,
 
@@ -938,10 +1026,26 @@ class RecipeDetailScreen(Screen):
         # META INFORMATION
         # =====================================================================
 
-        meta_row = BoxLayout(
+        meta_container = BoxLayout(
+            orientation="vertical",
+
             size_hint_y=None,
-            height=dp(55),
-            spacing=dp(8)
+
+            height=dp(108),
+
+            spacing=dp(4),
+        )
+
+        meta_row_1 = BoxLayout(
+            size_hint_y=None,
+            height=dp(52),
+            spacing=dp(16),
+        )
+
+        meta_row_2 = BoxLayout(
+            size_hint_y=None,
+            height=dp(52),
+            spacing=dp(16),
         )
 
         meta_items = [
@@ -951,17 +1055,40 @@ class RecipeDetailScreen(Screen):
             ("Difficulty", recipe["difficulty"]),
         ]
 
-        for label, value in meta_items:
-
-            meta_row.add_widget(
-                MetaItem(
-                    label,
-                    value
-                )
+        meta_row_1.add_widget(
+            MetaItem(
+                *meta_items[0]
             )
+        )
+
+        meta_row_1.add_widget(
+            MetaItem(
+                *meta_items[1]
+            )
+        )
+
+        meta_row_2.add_widget(
+            MetaItem(
+                *meta_items[2]
+            )
+        )
+
+        meta_row_2.add_widget(
+            MetaItem(
+                *meta_items[3]
+            )
+        )
+
+        meta_container.add_widget(
+            meta_row_1
+        )
+
+        meta_container.add_widget(
+            meta_row_2
+        )
 
         body.add_widget(
-            meta_row
+            meta_container
         )
 
         body.add_widget(
@@ -1067,13 +1194,13 @@ class RecipeDetailScreen(Screen):
             row = BoxLayout(
                 size_hint_y=None,
 
-                spacing=dp(8),
+                spacing=dp(10),
 
                 padding=(
                     0,
-                    dp(4),
+                    dp(5),
                     0,
-                    dp(4)
+                    dp(5)
                 ),
             )
 
@@ -1088,7 +1215,7 @@ class RecipeDetailScreen(Screen):
 
                 size_hint_x=None,
 
-                width=dp(75),
+                width=dp(65),
 
                 size_hint_y=None,
 
@@ -1099,7 +1226,7 @@ class RecipeDetailScreen(Screen):
                 valign="middle",
 
                 text_size=(
-                    dp(75),
+                    dp(65),
                     None
                 ),
             )
@@ -1205,7 +1332,7 @@ class RecipeDetailScreen(Screen):
             step_row = BoxLayout(
                 size_hint_y=None,
 
-                spacing=dp(10),
+                spacing=dp(12),
 
                 padding=(
                     0,
@@ -1230,9 +1357,9 @@ class RecipeDetailScreen(Screen):
                     None
                 ),
 
-                width=dp(30),
+                width=dp(34),
 
-                height=dp(30),
+                height=dp(34),
 
                 halign="center",
 
@@ -1246,10 +1373,10 @@ class RecipeDetailScreen(Screen):
                 RoundedRectangle(
                     pos=num_lbl.pos,
                     size=(
-                        dp(30),
-                        dp(30)
+                        dp(34),
+                        dp(34)
                     ),
-                    radius=[dp(15)]
+                    radius=[dp(17)]
                 )
 
             step_row.add_widget(
