@@ -1396,6 +1396,8 @@ class RecipeDetailScreen(Screen):
                 halign="left",
 
                 valign="top",
+
+                markup=True,
             )
 
             step_lbl.bind(
