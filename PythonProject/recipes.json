@@ -193,7 +193,7 @@
         "id": 3,
         "title": "Chilli",
         "subtitle": "A satisfying, hearty beef and bean Chili recipe",
-        "category": "Rice",
+        "category": "Chilli",
         "prep_time": "30 min",
         "cook_time": "1 hr",
         "serves": 6,
@@ -309,7 +309,7 @@
 
   {
         "id": 4,
-        "title": "Broccoli Cheese Soup ",
+        "title": "Cheese & Broccoli Soup ",
         "subtitle": "A bowl of comfort food, its hearty, cheesy, and creamy",
         "category": "Soup",
         "prep_time": "40 min",
@@ -745,7 +745,2394 @@
 
   {
         "id": 9,
-        "title": " ",
+        "title": "Garlic Parmesan Chips",
+        "subtitle": "Mouthwatering garlic, cheesy chips",
+        "category": "Chips",
+        "prep_time": "5 min",
+        "cook_time": "30 min",
+        "serves": 4,
+        "difficulty": "Easy",
+
+        "intro": "With double fried fresh cut fries tossed in a mixture or finely chopped garlic and parsley, along with freshly grated Parmesan cheese, you'll never go back to boring fries again",
+
+        "image": "images/garlic_parm_chips.jpg",
+
+        "ingredients": [
+            {
+                "amount": "4 portions",
+                "item": "Chips - frozen or homemade"
+            },
+            {
+                "amount": "60-100g",
+                "item": "Butter"
+            },
+            {
+                "amount": "6",
+                "item": "Garlic cloves - chopped or grated"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Light soy sauce"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Parsley - chopped"
+            },
+            {
+                "amount": "150g",
+                "item": "Parmesan - grated"
+            },
+            {
+                "amount": "To taste",
+                "item": "Salt & Pepper"
+            },
+            {
+                "amount": "1-2 ltr",
+                "item": "Neutral oil - if deep frying chips"
+            }
+        ],
+
+        "steps": [
+            "Cook your [b]Chips[/b] until done and the desired colour, set aside in a large mixing bowl.",
+            "In another bowl soften the [b]Butter[/b] in the microwave, then add chopped or grated [b]Garlic[/b], and 1 tsp [b]Light soy sauce[/b], and mix till combined.",
+            "Add the [b]Grated Parmesan[/b] and [b]Garlic butter[/b] to the bowl with the [b]Chips[/b] and gently mix together.",
+            "Adjust taste with [b]Salt & Pepper[/b].",
+            "Serve"
+        ],
+
+        "note": "Great with frozen chips or fresh homemade ones. the chips can be cooked in the oven, air fryer, or deep fryer whatever you prefer."
+    },
+  {
+        "id": 10,
+        "title": "Teriyaki Chicken",
+        "subtitle": "Tender chicken glazed in rich, sticky teriyaki sauce, bursting with flavour.",
+        "category": "Chicken",
+        "prep_time": "20 min",
+        "cook_time": "1 hr",
+        "serves": 4,
+        "difficulty": "Medium",
+
+        "intro": "Succulent chicken coated in a glossy teriyaki glaze, perfectly sweet, savoury, and irresistible.",
+
+        "image": "images/teriyaki_chicken.jpg",
+
+        "ingredients": [
+            {
+                "amount": "2",
+                "item": "Chicken breasts - butterflied into 2 cutlets"
+            },
+            {
+                "amount": "4 cups",
+                "item": "Rice"
+            },
+            {
+                "amount": "160g",
+                "item": "White button mushrooms - sliced"
+            },
+            {
+                "amount": "2 tbsp",
+                "item": "Butter"
+            },
+            {
+                "amount": "2",
+                "item": "Garlic cloves - grated or chopped"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Light soy sauce"
+            },
+            {
+                "amount": "70ml",
+                "item": "Light soy sauce"
+            },
+            {
+                "amount": "35ml",
+                "item": "Sake"
+            },
+            {
+                "amount": "70ml",
+                "item": "Mirin"
+            },
+            {
+                "amount": "1.5 tbsp",
+                "item": "Ketchup"
+            },
+            {
+                "amount": "15ml",
+                "item": "Apple juice"
+            },
+            {
+                "amount": "60g",
+                "item": "Suger"
+            },
+            {
+                "amount": "2 tsp",
+                "item": "Cornstarch - for slurry"
+            },
+            {
+                "amount": "2 tsp",
+                "item": "Water - for slurry"
+            },
+            {
+                "amount": "To taste",
+                "item": "Salt & Pepper"
+            },
+            {
+                "amount": "2 tbsp",
+                "item": "Sesame seeds - with extra for garnish"
+            }
+        ],
+
+        "steps": [
+            "In a bowl soften the [b]Butter[/b] in a microwave, then add [b]Grated garlic[/b], and 1 tsp [b]Light soy sauce[/b], and mix together then set aside.",
+            "In a small bowl or ramekin, mix together the 2 tsp [b]Cornstarch[/b] and 2 tsp [b]Water[/b], then set aside.",
+            "In a saucepan add the 70ml [b]Light soy sauce[/b], 35ml [b]Sake[/b], 70ml [b]Mirin[/b], 1.5 tbsp [b]Ketchup[/b], 15ml [b]Apple juice[/b], a pinch of [b]Black pepper[/b], and 60g [b]Suger[/b] and mix together.",
+            "Heat the saucepan with the sauce mix on a medium heat, and simmer for approximately 10 minuets to cook off the alcohol.",
+            "Add the [b]Cornstarch slurry[/b] and whisk constantly for 1-2 minuets or until the sauce reaches your desired thickness, remove from heat, set aside and let cool.",
+            "Rinse and wash your [b]Rice[/b], and set to cook in your rice cooker.",
+            "Heat some [b]Oil[/b] in a pan at medium heat and take the [b]Chicken cutlets[/b] and fry them on both sides until browned about 4 minuets per side, then set aside.",
+            "Wipe the pan out, add some [b]Oil[/b] and bring to a medium heat, then add the sliced [b]Mushrooms[/b] with a sprinkle of [b]Salt[/b] and cook until the [b]Mushrooms[/b] are golden, then set aside.",
+            "Take the rested [b]Chicken[/b] and slice it into strips, wipe out the pan and return to medium heat, then add the [b]Chicken slices[/b] and [b]Mushrooms[/b] along with the [b]Garlic butter[/b].",
+            "Once the [b]Garlic butter[/b] has melted and coated the chicken pour in the [b]Teriyaki sauce[/b].",
+            "When the [b]Teriyaki sauce[/b] is heated through, turn off the heat and stir in [b]Sesame seeds[/b].",
+            "Plate and sprinkle additional [b]Sesame seeds[/b] on top for garnish",
+            "Serve"
+        ],
+
+        "note": "The sugar in teriyaki sauce scorches quickly, so don't leave it on heat any longer than needed."
+    },
+  {
+        "id": 11,
+        "title": "Korean Popcorn Chicken",
+        "subtitle": "Crispy chicken, Korean glaze, seriously addictive.",
+        "category": "Chicken",
+        "prep_time": "30 min",
+        "cook_time": "1 hr",
+        "serves": 4,
+        "difficulty": "Medium",
+
+        "intro": "Crispy popcorn chicken tossed in a bold Korean glaze, delivering the perfect balance of sweet, spicy, and savoury.",
+
+        "image": "images/korean_popcorn_chicken.jpg",
+
+        "ingredients": [
+            {
+                "amount": "450g",
+                "item": "Chicken breast - or thigh"
+            },
+            {
+                "amount": "2.5 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "3 tsp",
+                "item": "Black pepper"
+            },
+            {
+                "amount": "1/2 tsp",
+                "item": "Ginger - grated"
+            },
+            {
+                "amount": "2 tsp",
+                "item": "Chilli powder"
+            },
+            {
+                "amount": "2.5 tbsp",
+                "item": "Garlic - grated"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Cooking wine - or mirin"
+            },
+            {
+                "amount": "200g",
+                "item": "Flour"
+            },
+            {
+                "amount": "50g",
+                "item": "Cornstarch"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Baking powder"
+            },
+            {
+                "amount": "1/2 tbsp",
+                "item": "Garlic powder - or extra minced garlic"
+            },
+            {
+                "amount": "1/2 tbsp",
+                "item": "Oregano"
+            },
+            {
+                "amount": "1",
+                "item": "Egg"
+            },
+            {
+                "amount": "120ml",
+                "item": "Water"
+            },
+            {
+                "amount": "Enough to fry chicken",
+                "item": "Neutral oil"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Soy sauce"
+            },
+            {
+                "amount": "2 tbsp",
+                "item": "Suger"
+            },
+            {
+                "amount": "2 tbsp",
+                "item": "Ketchup"
+            },
+            {
+                "amount": "4 tbsp",
+                "item": "Corn syrup - or honey"
+            },
+            {
+                "amount": "3 tbsp",
+                "item": "Water"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Gochujang"
+            },
+            {
+                "amount": "To garnish",
+                "item": "Grated cheese"
+            },
+            {
+                "amount": "To garnish",
+                "item": "Parsley"
+            }
+        ],
+
+        "steps": [
+            "Cut the [b]Chicken[/b] into bite size pieces, add to a bowl.",
+            "In a pan combine 2 tbsp [b]Grated garlic[/b], 1 tbsp [b]Soy sauce[/b], 2 tbsp [b]Suger[/b], 2 tbsp [b]Ketchup[/b], 4 tbsp [b]Corn syrup[/b], 3 tbsp [b]Water[/b], 1 tbsp [b]Gochujang[/b], and set aside.",
+            "Heat your [b]Oil[/b] to 180c while you do the next steps.",
+            "To the bowl add, 1 tsp [b]Salt[/b], 2 tsp [b]Black pepper[/b], 1/2 tsp [b]Grated ginger[/b], 1 tsp [b]Chilli powder[/b], 1/2 tbsp [b]Grated garlic[/b], 1 tbsp [b]Cooking wine[/b] or mirin, mix together and let it rest in the fridge for a minimum 15 minuets.",
+            "In a bowl mix together, 200g [b]Flour[/b], 50g [b]Cornstarch[/b], 1 tsp [b]Baking powder[/b], 1.5 tsp [b]Salt[/b], 1 tsp [b]Black Pepper[/b], 1 tsp [b]Chilli powder[/b], 1/2 tbsp [b]Oregano[/b], 1/2 tbsp [b]Garlic powder[/b] (if you use minced garlic, add it when you add an egg). ",
+            "Split the [b]Flour mix[/b] 55%/45% into two bowls, in to the 45% add one [b]Egg[/b], and add the 120ml [b]Water[/b] in parts while mixing together to form a slightly runny batter.",
+            "Add 10-13 pieces of your chicken to the wet batter and coat it, then add them into the dry flour mix and coat it well pressing a little.",
+            "Check your [b]Oil[/b] is the right temperature, then add in the coated [b]Chicken[/b] and fry for 1-2 minuets when its light browned, leave to rest on a rack or plate while you repeat with the remaining [b]Chicken[/b] pieces.",
+            "Take your [b]Sauce mix[/b] and mix together on a low heat, bring to a simmer and reduce it until your desired thickness.",
+            "Optional - you can give your [b]Chicken[/b] a second fry for extra crunch, just fry it again at 180c for 1-2 minuets.",
+            "Plate the [b]Chicken popcorn[/b] and then drizzle the [b]Sauce[/b] over it, or serve in a ramekin to dip in, garnish with [b]Grated cheese[/b] and [b]Parsley[/b]",
+            "Serve"
+        ],
+
+        "note": "This served with the Garlic Parmesan Chips is a meal to die for."
+    },
+  {
+        "id": 12,
+        "title": "Coconut Rice",
+        "subtitle": "Mums favourite type of rice",
+        "category": "Side",
+        "prep_time": "5 min",
+        "cook_time": "20 min",
+        "serves": 4,
+        "difficulty": "Easy",
+
+        "intro": "Fluffy jasmine rice infused with creamy coconut, adding a subtle sweetness to every bite.",
+
+        "image": "images/coconut_rice.jpg",
+
+        "ingredients": [
+            {
+                "amount": "4 cups",
+                "item": "Rice - can be a blend or jasmine and long grain"
+            },
+            {
+                "amount": "2 cans",
+                "item": "Coconut milk"
+            },
+            {
+                "amount": "2 tbsp",
+                "item": "Suger"
+            },
+            {
+                "amount": "1.5 tbsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "To taste",
+                "item": "Black Pepper"
+            }
+        ],
+
+        "steps": [
+            "Rinse and wash your [b]Rice[/b], add to the rice cooker with the 2 cans [b]Coconut milk[/b], and any water to bring the liquid level to the correct amount.",
+            "Add the 2 tbsp [b]Suger[/b], and turn the cooker on, after 5-10 minuets when the water is hot add the [b]Salt[/b] for the rice.",
+            "Check on the [b]Rice[/b] every 5 minuets to make sure it is not sticking to the bottom of the cooker.",
+            "Once cooked, plate and top with a crack of [b]Black Pepper[/b].",
+            "Serve"
+        ],
+
+        "note": "Can stick and burn to the bottom of the rice cooker so make sure to stir regularly."
+    },
+  {
+        "id": 13,
+        "title": "Chicken Fricassee",
+        "subtitle": "French creamy chicken stew",
+        "category": "Chicken",
+        "prep_time": "20 min",
+        "cook_time": "1 hr",
+        "serves": 4,
+        "difficulty": "Easy",
+
+        "intro": "Tender chicken simmered in a rich, creamy, mushroom sauce with aromatic herbs and mash potato. ",
+
+        "image": "images/chicken_fricassee.jpg",
+
+        "ingredients": [
+            {
+                "amount": "4",
+                "item": "Chicken breasts"
+            },
+            {
+                "amount": "4 portions",
+                "item": "Potatoes - for mash"
+            },
+            {
+                "amount": "1.5 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Black pepper"
+            },
+            {
+                "amount": "60g",
+                "item": "Butter"
+            },
+            {
+                "amount": "300g",
+                "item": "Mushrooms - sliced"
+            },
+            {
+                "amount": "2",
+                "item": "Onions"
+            },
+            {
+                "amount": "2",
+                "item": "Garlic cloves - grated"
+            },
+            {
+                "amount": "1",
+                "item": "Bay leaf"
+            },
+            {
+                "amount": "1/2 tsp",
+                "item": "Dried thyme"
+            },
+            {
+                "amount": "3 tbsp",
+                "item": "Flour"
+            },
+            {
+                "amount": "125ml",
+                "item": "White wine - chardonnay preferably"
+            },
+            {
+                "amount": "750ml",
+                "item": "Chicken stock"
+            },
+            {
+                "amount": "2 tbsp",
+                "item": "Parsley - chopped"
+            },
+            {
+                "amount": "185ml",
+                "item": "Double cream"
+            }
+        ],
+
+        "steps": [
+            "Get your [b]Potatoes[/b] peeled and quartered, and set them in a pot with water covering the top [b]potatoes[/b], set on a high temperature and once the pot is boiling set a 6 minute timer, check if the potatoes are cooked or if they need another 2-3 minuets.",
+            "Once your [b]Potatoes[/b] are cooked you can drain the water from the pot, then set the potatoes back in the warm pot and set aside.",
+            "Pat [b]Chicken[/b] dry and sprinkle with [b]Salt[/b] and [b]Pepper[/b].",
+            "Melt [b]Butter[b] over a medium high heat in a large skillet, add the [b]Chicken[/b] and cook on each side for 4-5 minutes until the internal temperature is 74c, then remove to a plate.",
+            "Add 300g [b]Mushrooms[/b], 2 [b]Onions[/b], 1 [b]Bay leaf[/b], and 1/2 tsp [b]Dried thyme[/b], cook for 5 minuets until [b]Mushrooms[/b] is lightly golden.",
+            "Add [b]Grated garlic[/b] and stir for 30 seconds, add the 3 tbsp [b]Flour[/b] and cook for 1 minuet.",
+            "Add 125ml [b]White wine[/b], 750ml [b]Chicken stock[/b], and 1/2 tsp [b]Salt[/b] & 1/2 tsp [b]Pepper[/b], stir scraping the base of the pot to dissolve the fond.",
+            "Bring the [b]Sauce[/b] to a simmer and reduce uncovered for 15 minutes, then add the [b]Chicken[/b] and simmer with lid on for 6 minutes or until internal temperatures reaches 65c",
+            "While the [b]Chicken[/b] comes up to temperature you can add [b]Salt[/b], [b]Butter[/b], and [b]Parsely[/b] to your [b]Potatoes[/b] and then mash them, divide the [b]Mash[/b] between the plates.",
+            "Once the [b]Chicken[/b] is up to temperature remove the [b]Chicken[/b] to the plates with the mash, add the [b]Double cream[/b] to the sauce and stir, once it comes to a simmer, taste and adjust with [b]Salt[/b] and [b]Pepper[/b].",
+            "Return the [b]Chicken[/b] to the sauce, and coat it in it, sprinkle with [b]Parsley[/b], plate the [b]Chicken[/b] and [b]Sauce[/b].",
+            "Serve"
+        ],
+
+        "note": "You can replace the white wine with more chicken stock."
+    },
+  {
+        "id": 14,
+        "title": "Chow Mein",
+        "subtitle": "Wok-tossed noodles, crisp vegetables, savoury sauce.",
+        "category": "Noodles",
+        "prep_time": "30 min",
+        "cook_time": "20 min",
+        "serves": 4,
+        "difficulty": "Easy",
+
+        "intro": "Golden noodles stir-fried with fresh vegetables in a rich, savoury sauce for the perfect satisfying bite",
+
+        "image": "images/chow_mein.jpg",
+
+        "ingredients": [
+            {
+                "amount": "8 nests",
+                "item": "Medium egg noodles"
+            },
+            {
+                "amount": "1",
+                "item": "Red onion"
+            },
+            {
+                "amount": "2-3",
+                "item": "Carrots"
+            },
+            {
+                "amount": "170g",
+                "item": "Cabbage"
+            },
+            {
+                "amount": "3",
+                "item": "Scallions"
+            },
+            {
+                "amount": "110g",
+                "item": "Bean sprouts"
+            },
+            {
+                "amount": "350g",
+                "item": "Chicken breast"
+            },
+            {
+                "amount": "60ml",
+                "item": "Neutral oil"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Oyster sauce"
+            },
+            {
+                "amount": "3 tsp",
+                "item": "Cornstarch"
+            },
+            {
+                "amount": "3 tbsp",
+                "item": "Water"
+            },
+            {
+                "amount": "1/2 tsp",
+                "item": "White pepper"
+            },
+            {
+                "amount": "4 tbsp",
+                "item": "Oyster sauce"
+            },
+            {
+                "amount": "4 tbsp",
+                "item": "Light soy sauce"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Dark soy sauce"
+            },
+            {
+                "amount": "2 tsp",
+                "item": "Suger"
+            },
+            {
+                "amount": "2 tsp",
+                "item": "Chicken bouillon powder"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Sesame oil"
+            }
+        ],
+
+        "steps": [
+            "Prep your [b]Red onion[/b], [b]Carrots[/b], and [b]Cabbage[/b], into thin strips, and dice your [b]Scallions[/b].",
+            "Prep your [b]Chicken[/b] by slicing it into thin strips, then place it into a bowl.",
+            "Marinade the [b]Chicken[/b] in 1 tbsp [b]Oyster sauce[/b], 3 tsp [b]Cornstarch[/b], 3 tbsp [b]Water[/b], and 1/2 tsp [b]White pepper[/b], mix together well, then marinate for at least 30 minuets",
+            "In a bowl combine 4 tbsp [b]Oyster sauce[/b], 4 tbsp [b]Light soy sauce[/b], 1 tbsp [b]Dark soy sauce[/b], 2 tsp [b]Suger[/b], and 2 tsp [b]Chicken bouillon powder[/b], and set aside.",
+            "While doing the next steps have your Noodles in a bowl and cover with a kettle of boiling water and leave for 6 minuets or until the noodles are cooked, drain them and leave aside.",
+            "Add 2 tbsp [b]Oil[/b] to a wok or frying pan and add the [b]Marinated chicken[/b], cook on a medium high heat for 3-5 minuets or the [b]Chicken[/b] is cooked through, remove and set aside.",
+            "Add the [b]Onions[/b], [b]Carrots[/b], and [b]Cabbage[/b] and cook on medium heat until softened about 3-5 minuets, remove and set aside.",
+            "Add 1 tbsp [b]Oil[/b] and the cooked [b]Noodles[/b] to the pan on high heat and stir and flip for around 1 minuet, turn the heat to low, give your [b]Sauce mix[/b] a stir and then add to the pan with the noodles, stir until the sauce is well distributed. ",
+            "Add the [b]Cooked chicken[/b] and [b]Cooked veg[/b] and stir mixing well for 1 minuet, turn the heat to medium high and add the 110g [b]Bean sprouts[/b] and [b]Scallions[/b], and stir for 1 minuet, finish with a drizzle of 1 tbsp [b]Sesame oil[/b] and plate.",
+            "Serve"
+        ],
+
+        "note": "Great with store bought prawn crackers and a sprinkle of sesame seeds"
+    },
+  {
+        "id": 15,
+        "title": "Garlic Naan Breads",
+        "subtitle": "Soft, fluffy naan with garlic butter.",
+        "category": "Sides",
+        "prep_time": "2 hr",
+        "cook_time": "1 hr",
+        "serves": 7,
+        "difficulty": "Medium",
+
+        "intro": "Freshly baked naan brushed with fragrant garlic butter and herbs.",
+
+        "image": "images/garlic_naan.jpg",
+
+        "ingredients": [
+            {
+                "amount": "7g",
+                "item": "Dry yeast"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Suger"
+            },
+            {
+                "amount": "2 tbsp",
+                "item": "Warm water"
+            },
+            {
+                "amount": "360g",
+                "item": "flour + a few more tbsp if dough is sticky"
+            },
+            {
+                "amount": "80g",
+                "item": "Plain whole yoghurt"
+            },
+            {
+                "amount": "190ml",
+                "item": "Warm water"
+            },
+            {
+                "amount": "60ml",
+                "item": "Olive oil"
+            },
+            {
+                "amount": "1.5 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "Enough for frying",
+                "item": "Neutral oil"
+            },
+            {
+                "amount": "115g",
+                "item": "Butter"
+            },
+            {
+                "amount": "3-6",
+                "item": "Garlic cloves - grated"
+            },
+            {
+                "amount": "1/4 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Parsley - chopped"
+            }
+        ],
+
+        "steps": [
+            "In a bowl combine 7g [b]Dry yeast[/b], 1 tsp [b]Suger[/b], and 2 tbsp [b]Warm Water[/b], mix and leave for 10 minuets, if the yeast has proofed, continue, if not start again with new yeast.",
+            "In a mixing bowl add your 360g [b]Flour[/b], 80g [b]Plain yoghurt[/b], 1.5 tsp [b]Salt[/b], 60ml [b]Olive oil[/b], 190ml [b]Warm water[/b], and [b]Proofed yeast[/b].",
+            "Using a stand mixer or by hand mixed the bowl together until it forms a [b]Dough[/b], the [b]Doagh[/b] shouldn't stick to your hands if it does add more flour a tbsp at a time and mix then check again if its sticky, continue once its not sticking.",
+            "[b]Oil[/b] a bowl and set your [b]Dough[/b] in it covering with a towel or lid, and leave to prove in a slightly warm place for 1 hour or till it doubles in size.",
+            "While you wait for the [b]Doagh[/b] to rise make the garlic butter, in a bowl take the 115g [b]Butter[/b] and soften it in the microwave, then add the [b]Grated garlic[/b], and [b]Chopped parsley[/b], mix together and leave to the side.",
+            "Once doubled in size divide your [b]Doagh[/b] into 7-8 even size balls, on a plate add some [b]Oil[/b] then place a [b]Doagh ball[/b] onto it and flatten it out with your hands into a disc to your desired thickness.",
+            "Take the [b]Naan[/b] you flattened and add to a hot frying pan with a little [b]Oil[/b] on high heat for until the bottom is golden brown then flip and do the same on the other side, remove to a plate once both sides are cooked.",
+            "Take a pastry brush and brush your freshly cooked [b]Naan[/b] with the [b]Garlic butter[/b] you made earlier.",
+            "Repeat steps 7 & 8 for the remaining [b]doagh balls[/b].",
+            "Serve"
+        ],
+
+        "note": "A fantastic side for other dishes such as curries or lasagne."
+    },
+  {
+        "id": 16,
+        "title": "Jack's 'Quick' Lasagne",
+        "subtitle": "'Quick' Lasagne in 2 hours",
+        "category": "Pasta",
+        "prep_time": "20 min",
+        "cook_time": "1 hr 30 min",
+        "serves": 5,
+        "difficulty": "Easy",
+
+        "intro": "Layers of rich beef ragu, creamy béchamel and melted cheese, baked until golden and bubbling.",
+
+        "image": "images/lasagne.jpg",
+
+        "ingredients": [
+            {
+                "amount": "450g",
+                "item": "Beef mince"
+            },
+            {
+                "amount": "1 large",
+                "item": "Onion - diced"
+            },
+            {
+                "amount": "2-3",
+                "item": "Carrots - diced"
+            },
+            {
+                "amount": "2-3 tbsp",
+                "item": "Red curry paste"
+            },
+            {
+                "amount": "430g",
+                "item": "Tomato passata"
+            },
+            {
+                "amount": "120g",
+                "item": "Flour"
+            },
+            {
+                "amount": "80g",
+                "item": "Butter"
+            },
+            {
+                "amount": "80g",
+                "item": "Butter"
+            },
+            {
+                "amount": "800ml",
+                "item": "Milk"
+            },
+            {
+                "amount": "100g",
+                "item": "Cheese - grated"
+            },
+            {
+                "amount": "To taste",
+                "item": "Nutmeg - grated/powdered"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Black pepper"
+            },
+            {
+                "amount": "1 box",
+                "item": "Lasagne sheets"
+            },
+            {
+                "amount": "250g",
+                "item": "Grated cheese"
+            }
+        ],
+
+        "steps": [
+            "Dice the [b]Onions[/b] and [b]Carrots[/b], and set to the side.",
+            "Heat a large pot to medium high heat, if your mince isn't fatty add 1 tbsp [b]Oil[/b] to the pot, add the [b]Beef mince[/b] and dont touch for 4-5 minutes.",
+            "After the time has passed you may break up your [b]Beef mince[/b] to a consistency you like, and cook it off until no pink bits remain.",
+            "Reduce the heat to medium and push the [b]Beef mince[/b] to one side of the pan and add in the [b]Onions[/b] and [b]Carrots[/b], season with 1 tsp [b]Salt[/b] and 1 tsp [b]Black pepper[/b], and cook until softened about 4-5 minutes.",
+            "Stir in the 2-3 tbsp [b]Red curry paste[/b] stir until combined and fragrant, then add the [b]Tomato passata[/b], mix well and bring to a gentle simmer.",
+            "While the [b]Ragu[/b] simmers, preheat the oven to 180c, in another pot take 80g [b]Butter[/b] and melt it, once melted add the 80g [b]Flour[/b], stirring constantly for 1 minute to cook out the [b]Flour[/b], then add the 800ml [b]Milk[/b] gradually while stirring.",
+            "Once all the [b]Milk[/b] has been incorporated bring the [b]bechamel[/b] to a simmer and let thicken until your desired consistency, then add in the 100g [b]Grated cheese[/b] and 1-2 tsp [b]Nutmeg[/b], mix until combined, then remove from heat.",
+            "In a casserole dish add a small amount of the [b]Ragu[/b] so the bottom isn't dry, then form a layer of [b]Lasagne sheets[/b], followed by a layer of [b]Ragu[/b], then a layer of [b]Bechamel[/b], then repeat these layers building your [b]Lasagne[/b], saving a couple tbsp of the [b]Ragu[/b] and [b]Bechamel[/b].",
+            "Top the final layer of [b]Lasagne sheets[/b] with the left over [b]Ragu[/b] and [b]Bechamel[/b], then do a top layer of [b]Grated cheese[/b], and place in the oven for 20-25 minutes for the cheese to broil. ",
+            "Serve"
+        ],
+
+        "note": "A lovely 'Quick' Lasagne that can be served with a side of Chips or Garlic Naan breads."
+    },
+  {
+        "id": 17,
+        "title": "Fami-Chicki",
+        "subtitle": "Juicy, Crunchy, Chicken Burgers",
+        "category": "Burgers",
+        "prep_time": "40 min",
+        "cook_time": "30 min",
+        "serves": 4,
+        "difficulty": "Medium",
+
+        "intro": "Crispy, juicy Japanese-style fried chicken seasoned with a savoury blend of spices",
+
+        "image": "images/famichicki.jpg",
+
+        "ingredients": [
+            {
+                "amount": "2",
+                "item": "Chicken breasts - butterflied into cutlets"
+            },
+            {
+                "amount": "200g",
+                "item": "Flour"
+            },
+            {
+                "amount": "200g",
+                "item": "Cornstarch"
+            },
+            {
+                "amount": "2",
+                "item": "Eggs"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Hot sauce - eg Tabasco"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "White pepper"
+            },
+            {
+                "amount": "2 tsp",
+                "item": "Garlic powder"
+            },
+            {
+                "amount": "2 tsp",
+                "item": "Onion powder"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Chilli powder"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "For frying",
+                "item": "Neutral oil"
+            }
+        ],
+
+        "steps": [
+            "Trim any excess fat from the [b]Chicken breast[/b], and butterfly them into 4 [b]Cutlets[/b].",
+            "In a bowl, prepare the dry dredge by mixing together the 200g [b]Flour[/b], 200g [b]Cornstarch[/b], ½ tbsp [b]Hot sauce[/b], ½ tsp [b]White pepper[/b], 1 tsp [b]Garlic powder[/b], 1 tsp [b]Onion powder[/b], ½ tsp [b]Chilli powder[/b], and ½ tsp [b]Salt[/b].",
+            "In a separate bowl, prepare the wet batter by whisking together the 2 [b]Eggs[/b], ½ tbsp [b]Hot sauce[/b], ½ tsp [b]White pepper[/b], 1 tsp [b]Garlic powder[/b], 1 tsp [b]Onion powder[/b], ½ tsp [b]Chilli powder[/b], and ½ tsp [b]Salt[/b].",
+            "Pour 2-3 tablespoons of the wet mixture into the dry dredge and mix well. This creates small clumps that will give extra crispiness to the final fried chicken.",
+            "Preheat the oil to 180°C in a deep pan or fryer.",
+            "Dredge each [b]Chicken cutlet[/b] in the dry mixture, shaking off any excess, then dip into the wet batter, allowing any excess to drip off. Return each [b]Cutlet[/b] to the dry dredge for a final coat, and place on a tray with a wire rack until ready to cook",
+            "Carefully place the [b]Chicken[/b] into the hot [b]Oil[/b] without overcrowding the pan. Fry for 8–10 minutes, or until the [b]chicken[/b] is golden brown and cooked through. To check for doneness, the internal temperature should reach 70°C / 160°F in the thickest part of the chicken.",
+            "Place the fried chicken on a wire rack to drain, sprinkle with a little extra salt if desired.",
+            "Serve"
+        ],
+
+        "note": "A great fried chicken recipie for making homemade chicken burgers."
+    },
+  {
+        "id": 18,
+        "title": "Chicken Balls",
+        "subtitle": "The Ultimate Chinese Chicken Balls",
+        "category": "Chicken",
+        "prep_time": "20 min",
+        "cook_time": "30 min",
+        "serves": 4,
+        "difficulty": "Medium",
+
+        "intro": "Crispy golden chicken balls coated in a light, savoury batter and fried until deliciously tender.",
+
+        "image": "images/chicken_balls.jpg",
+
+        "ingredients": [
+            {
+                "amount": "500g",
+                "item": "Chicken breast - cut into 1 inch cubes"
+            },
+            {
+                "amount": "60g",
+                "item": "Cornstarch"
+            },
+            {
+                "amount": "For frying",
+                "item": "Neutral oil"
+            },
+            {
+                "amount": "2 tsp",
+                "item": "Suger"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "1/2 tsp",
+                "item": "White pepper"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Sesame oil"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Garlic paste"
+            },
+            {
+                "amount": "1/2 tsp",
+                "item": "Baking soda"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Cornstarch"
+            },
+            {
+                "amount": "120g",
+                "item": "Flour"
+            },
+            {
+                "amount": "60g",
+                "item": "Cornstarch"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Baking soda"
+            },
+            {
+                "amount": "1/2 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "280ml",
+                "item": "Water"
+            },
+            {
+                "amount": "4 tbsp",
+                "item": "Ketchup"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Tomato puree"
+            },
+            {
+                "amount": "4 tbsp",
+                "item": "White vinegar"
+            },
+            {
+                "amount": "3 tbsp",
+                "item": "Suger"
+            },
+            {
+                "amount": "140ml",
+                "item": "Water"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Cornstarch"
+            },
+            {
+                "amount": "1/2 tsp",
+                "item": "Salt"
+            }
+        ],
+
+        "steps": [
+            "Cut the [b]Chicken breast[/b] into 1\" dices. Place them in a large mixing bowl and add 1 tsp [b]Salt[/b], 2 tsp [b]Sugar[/b], 1/2 tsp [b]White pepper[/b], 1 tsp [b]sesame oil[/b], 1 tbsp [b]Grated garlic[/b], 1 tsp [b]Corn starch[/b], and 1/2 tsp [b]Baking soda[/b], Mix well, set aside, and marinate for 15-30 minutes. ( If you have more time you can leave it for 1 hour. )",
+            "In a small saucepan, combine all the sweet and sour sauce ingredients, 4 tbsp [b]Ketchup[/b], 4 tbsp [b]White vinegar[/b], 3 tbsp [b]Sugar[/b], 1 tbsp [b]Tomato puree[/b], 140ml [b]Water[/b], 1 tsp [b]Cornstarch[/b] and 1/2 tsp [b]Salt[/b].",
+            "Mix well until corn starch dissolved, then turn on the heat to low-medium. Stir continuously until the sauce is thicken to desire consistency. Turn off the heat and let it cool down.",
+            "Combine 120g [b]Flour[/b], 60g [b]Cornstarch[/b], 1 tsp [b]Baking soda[/b], and 1/2 tsp [b]Salt[/b] in a large bowl. Pour the 280ml [b]Water[/b] in, whisk well and make it into smooth batter. ( The batter should be medium thick. Add more water if needed. )",
+            "Add 60g of [b]Cornstarch[/b] in the chicken marinade, coat each chicken piece with the [b]Cornstarch[/b]. Then dip into the batter and turn to coat evenly.",
+            "Fry the [b]battered chicken pieces[/b] with pre-heated high heat [b]Oil[/b] for 2-3 minutes until light brown. ( about 180° C ) Remove from [b]Oil[/b] and set aside for 4-5 minutes. Repeat the process to remaining chicken pieces.",
+            "Then reheat the [b]Oil[/b] back to 180° C , fry the [b]Chicken[/b] 2nd time for 2-3 minutes until crispy golden brown. Remove from oil and transfer to cooling rack or paper towel.",
+            "Serve"
+        ],
+
+        "note": "Do not overcrowd the oil because overcrowding can drop down the oil temperature and the chicken balls can get greasy. Fry with batches if needed."
+    },
+  {
+        "id": 19,
+        "title": "BIR Korma",
+        "subtitle": "Rich, creamy, aromatic British Indian korma.",
+        "category": "Chicken",
+        "prep_time": "20 min",
+        "cook_time": "45 min",
+        "serves": 4,
+        "difficulty": "Easy",
+
+        "intro": "A creamy, mildly spiced curry with aromatic flavours.",
+
+        "image": "images/BIR_korma.jpg",
+
+        "ingredients": [
+            {
+                "amount": "600g",
+                "item": "Chicken breast - cut into large chunks"
+            },
+            {
+                "amount": "75g",
+                "item": "Whole milk plain yoghurt"
+            },
+            {
+                "amount": "2 tsp",
+                "item": "Gram Flour"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "2 tsp",
+                "item": "Ginger puree"
+            },
+            {
+                "amount": "2 tsp",
+                "item": "Garlic puree"
+            },
+            {
+                "amount": "60g",
+                "item": "Butter"
+            },
+            {
+                "amount": "2.5cm",
+                "item": "Cinnamon stick"
+            },
+            {
+                "amount": "1 large",
+                "item": "Onion - finely sliced"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Ground turmeric"
+            },
+            {
+                "amount": "3 tsp",
+                "item": "Ground coriander"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Chilli powder"
+            },
+            {
+                "amount": "300ml",
+                "item": "Warm water"
+            },
+            {
+                "amount": "6 tsp",
+                "item": "Coconut flour"
+            },
+            {
+                "amount": "4 tsp",
+                "item": "Suger"
+            },
+            {
+                "amount": "50g",
+                "item": "Cashew nuts"
+            },
+            {
+                "amount": "150ml",
+                "item": "Double cream"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Ground cardamon"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Garam masala"
+            }
+        ],
+
+        "steps": [
+            "This recipe is only for the [b]Chicken Korma[/b] itself and not any sides such as [b]Rice[/b] or [b]Chips[/b]",
+            "In a large bowl add the 600g [b]Diced chicken[/b], then add the 75g [b]Plain yoghurt[/b], 2 tsp [b]Gram flour[/b], 1 tsp [b]Salt[/b], 2 tsp [b]Ginger puree[/b], and 2 tsp [b]Garlic puree[/b].",
+            "Mix well together and leave the [b]Chicken[/b] to marinate for at least an hour in the fridge.",
+            "Heat a saucepan to medium heat, then add 60g [b]Butter[/b], once melted add the 2.5cm [b]Cinnamon stick[/b], and [b]Sliced onion[/b], then stir gently for 5 minuets until the [b]Onion[/b] is cooked.",
+            "Once the onion is softened add 1 tsp [b]Turmeric powder[/b], 1 tsp [b]Chilli powder[/b], 3 tbsp [b]Coriander powder[/b], and mix together for 1 minuet.",
+            "Now add the [b]Marinated chicken[/b] and as much of the [b]Marinade[/b] as you can, and cook on medium high for 4-5 minuets stirring often until the [b]Chicken[/b] is no longer pink.",
+            "Add the 300ml [b]Warm water[/b] to the pan and lower to a medium heat, add 6 tsp [b]Coconut flour[/b], and 4 tsp [b]Suger[/b], mix well together and bring to a boil, then simmer on a low heat with the lid on for 15 minuets.",
+            "Take a bowl and add the 50g [b]Cashew nuts[/b] and cover them in boiling water for 10-15 minuets, then add them to a blender and puree them, then add 150ml [b]Double cream[/b] and blend together.",
+            "Once the [b]Korma[/b] is done simmering add the [b]Cashew cream puree[/b] and mix together until fully incorporated, and remove the [/b]Cinnamon stick[/b].",
+            "Now add 1 tsp [b]Cardamon powder[/b], and 1 tsp [b]Garam masala[/b], mix well, then remove from the heat",
+            "Serve"
+        ],
+
+        "note": "Goes great witch Rice or Chips as well as Naan Breads."
+    },
+  {
+        "id": 20,
+        "title": "Pancakes",
+        "subtitle": "Fluffy, golden pancakes.",
+        "category": "Treats",
+        "prep_time": "20 min",
+        "cook_time": "20 min",
+        "serves": 4,
+        "difficulty": "Medium",
+
+        "intro": "Light, fluffy american style pancakes.",
+
+        "image": "images/pancakes.jpg",
+
+        "ingredients": [
+            {
+                "amount": "360g",
+                "item": "Flour"
+            },
+            {
+                "amount": "50g",
+                "item": "Suger"
+            },
+            {
+                "amount": "1.5 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "1.5 tsp",
+                "item": "Baking soda"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Baking powder"
+            },
+            {
+                "amount": "600ml",
+                "item": "Butter milk"
+            },
+            {
+                "amount": "55ml",
+                "item": "Neutral oil"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Vanilla extract"
+            },
+            {
+                "amount": "3",
+                "item": "Eggs"
+            },
+            {
+                "amount": "For frying",
+                "item": "Butter"
+            }
+        ],
+
+        "steps": [
+            "In a large bowl whisk together the 360g [b]Flour[/b], 50g [b]Suger[/b], 1.5 tsp [b]Salt[/b], 1.5 tsp [b]Baking soda[/b], and 1 tbsp [b]Baking powder[/b].",
+            "In a separate large bowl combine the 600ml [b]Butter milk[/b], 55ml [b]Oil[/b], 1 tbsp [b]Vanilla extract[/b], and 3 [b]Eggs[/b]. ",
+            "Pour the [b]Wet mix[/b] into the [b]Dry mix[/b], and fold in maybe 20-25 times max, it should be lumpy [/b]Don't mix anymore[/b].",
+            "Heat a pan to a medium high heat and add a small dollop of [b]Butter[/b] to grease the pan, once melted add a large dessert spoon size dollop of the [b]Pancake batter[/b] to the pan and cook until you see bubbles popping all around the [b]Pancake[/b], then flip over, the bottom will be cooked when you can press on the [b]Pancake[/b] and it springs back.",
+            "Plate the cooked [b]Pancake[/b] and repeat for the remaining [b]Pancake batter[/b].",
+            "Serve"
+        ],
+
+        "note": "Delicious served with Bacon."
+    },
+  {
+        "id": 21,
+        "title": "Italian Garlic Soup",
+        "subtitle": "Simple ingredients, extraordinary flavour",
+        "category": "Soup",
+        "prep_time": "20 min",
+        "cook_time": "40 min",
+        "serves": 4,
+        "difficulty": "Easy",
+
+        "intro": "A comforting, aromatic soup packed with rich savoury flavour",
+
+        "image": "images/garlic_soup.jpg",
+
+        "ingredients": [
+            {
+                "amount": "2 medium",
+                "item": "Potatoes"
+            },
+            {
+                "amount": "1",
+                "item": "Onion"
+            },
+            {
+                "amount": "1 large",
+                "item": "Leek"
+            },
+            {
+                "amount": "2",
+                "item": "Heads of garlic"
+            },
+            {
+                "amount": "1650ml",
+                "item": "Chicken stock"
+            },
+            {
+                "amount": "1/2 tsp",
+                "item": "Dried thyme"
+            },
+            {
+                "amount": "120ml",
+                "item": "Double cream"
+            },
+            {
+                "amount": "120ml",
+                "item": "Olive oil"
+            },
+            {
+                "amount": "20g",
+                "item": "Parsley - chopped"
+            },
+            {
+                "amount": "To taste",
+                "item": "Salt & Pepper"
+            },
+            {
+                "amount": "200g",
+                "item": "Rustic bread - or store bought Croutons"
+            }
+        ],
+
+        "steps": [
+            "Peel and chop the [b]Onion[/b] medium finely, Set aside, Peel the [b]Garlic cloves[/b], set aside, Wash and chop the [b]Leek[/b], set aside.",
+            "In a heavy pot or saucepan over medium heat, add 120ml [b]Olive oil[/b].  Add the chopped [b]Onion[/b], [b]Leek[/b] and [b]Dried thyme[/b], leave to sweat, do not brown.",
+            "Add the [b]Garlic[/b] and turn heat to low.  Cook gently for about 15 minutes.",
+            "While that’s cooking, peel and dice the [b]Potatoes[/b] then add to the pot along with all the [b]Chicken stock[/b].  Season with [b]Salt & Pepper[/b], simmer gently for 25 – 30 minutes",
+            "Add the [b]Cream[/b], mix well then blitz in a blender or use a stick blender directly in the pot.  Taste for seasoning.",
+            "For the [b]Croutons[/b], use store bought, or simply dice up some of the [b]Bread[/b] and fry in [b]Olive oil[/b] on low heat until brown and crispy, the slower you cook them, the more crispy they will remain in the soup.",
+            "Top the [b]Soup[/b] with the [b]Croutons[/b] and chopped [b]Parsley[/b].",
+            "Serve"
+        ],
+
+        "note": "Make your own croutons or use store bought ones."
+    },
+  {
+        "id": 22,
+        "title": "Rose Pasta",
+        "subtitle": "simple, comforting, and incredibly flavorful",
+        "category": "Pasta",
+        "prep_time": "5 min",
+        "cook_time": "25 min",
+        "serves": 4,
+        "difficulty": "Easy",
+
+        "intro": "Creamy rose pasta is a dreamy combination of rich Alfredo and tangy marinara sauces, creating a smooth, velvety texture with a beautiful pink hue.",
+
+        "image": "images/rose_pasta.jpg",
+
+        "ingredients": [
+            {
+                "amount": "2 tbsp",
+                "item": "Olive oil"
+            },
+            {
+                "amount": "1",
+                "item": "Onion"
+            },
+            {
+                "amount": "6",
+                "item": "Garlic cloves - grated"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Red pepper flakes"
+            },
+            {
+                "amount": "350ml",
+                "item": "Tomato passata"
+            },
+            {
+                "amount": "90ml",
+                "item": "Water"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Black pepper"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Suger"
+            },
+            {
+                "amount": "350ml",
+                "item": "Double cream"
+            },
+            {
+                "amount": "220g",
+                "item": "Baby spinach"
+            },
+            {
+                "amount": "70ml",
+                "item": "Pasta water"
+            },
+            {
+                "amount": "450-500g",
+                "item": "Pasta"
+            },
+            {
+                "amount": "60g",
+                "item": "Parmesan"
+            },
+            {
+                "amount": "For garnish",
+                "item": "Fresh basil"
+            }
+        ],
+
+        "steps": [
+            "Prepare ingredients by dicing the [b]Onion[/b], mincing 6 [b]Garlic cloves[/b], and grating 60g [b]Parmesan[/b].",
+            "In a large skillet, heat [b]Olive oil[/b] over medium heat. Add the chopped [b]Onions[/b] and sauté for about 5 minutes, until they’re soft and lightly golden.",
+            "Add in the minced [b]Garlic[/b] and [b]Red pepper flakes[/b], cooking for 30-60 seconds until fragrant.",
+            "Pour in 350ml [b]Passata[/b] and 90ml [b]Water[/b], then season with [b]Salt[/b], [b]Pepper[/b], and [b]Sugar[/b]. Stir well, cover and simmer on medium/medium-low heat for 15-20 minutes.",
+            "While the [b]Sauce[/b] simmers, cook your [b]Pasta[/b] in a pot of boiling salted water according to the package instructions. Don’t forget to reserve about 70ml of [b]Pasta water[/b] before draining.",
+            "Once the [b]Sauce[/b] is ready, stir in the [b]Double cream[/b] and simmer uncovered on medium heat for about 5 minutes to let it thicken slightly.",
+            "Add in [b]Spinach[/b] and reserved [b]Pasta water[/b] to the skillet. Stir gently then cover with a lid and cook for 3-5 minutes on medium heat, until the [b]Spinach[/b] wilts",
+            "Add the cooked [b]Pasta[/b] along with the grated [b]Parmesan[/b] to the [b]Sauce[/b]. Toss everything together until the [b]Pasta[/b] is evenly coated with the creamy [b]Rose sauce[/b] and simmer together for 1 minute.",
+            "Garnish with [b]Fresh basil[/b], a crack of [b]Black pepper[/b] and additional [b]Parmesan[/b].",
+            "Serve"
+        ],
+
+        "note": "Good by itself, but goes great with some fried chicken."
+    },
+  {
+        "id": 23,
+        "title": "Chicken Pie",
+        "subtitle": "Comforting, cozy, homemade chicken pie",
+        "category": "Pie",
+        "prep_time": "20 min",
+        "cook_time": "1 hr, 10 minuets",
+        "serves": 4,
+        "difficulty": "Easy",
+
+        "intro": "A comforting chicken pie filled with creamy, savoury goodness.",
+
+        "image": "images/chicken_pie.jpg",
+
+        "ingredients": [
+            {
+                "amount": "2",
+                "item": "Puff pastry sheets"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Neutral oil"
+            },
+            {
+                "amount": "115g",
+                "item": "Butter"
+            },
+            {
+                "amount": "1",
+                "item": "Onion - diced"
+            },
+            {
+                "amount": "2-3",
+                "item": "Carrots - diced"
+            },
+            {
+                "amount": "50g",
+                "item": "Celery - diced"
+            },
+            {
+                "amount": "3",
+                "item": "Garlic cloves - grated"
+            },
+            {
+                "amount": "40g",
+                "item": "Flour"
+            },
+            {
+                "amount": "420ml",
+                "item": "Chicken stock"
+            },
+            {
+                "amount": "120ml",
+                "item": "Double cream"
+            },
+            {
+                "amount": "1/2 tsp",
+                "item": "Dried thyme"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Black pepper"
+            },
+            {
+                "amount": "3",
+                "item": "Chicken breasts"
+            },
+            {
+                "amount": "170g",
+                "item": "Frozen peas"
+            },
+            {
+                "amount": "For brushing",
+                "item": "Double cream"
+            }
+        ],
+
+        "steps": [
+            "Preheat the oven to 180c.",
+            "Cover the bottom of your pie dish with a sheet of [b]Puff pastry[/b], trimming any excess, then place a sheet of parchment paper ontop of the [b]Pastry[/b] and cover with baking beans, blind bake in an oven for 20 minuets. then remove and set aside",
+            "Butterfly your [b]Chicken breasts[/b] so that they are roughly even thickness, then set a frying pan to medium high heat.",
+            "Once hot add 1 tbsp [b]Neutral oil[/b] to the pan, then add the [b]Chicken breasts[/b] and cook on each side for 4 minutes or until the internal temperature is 74c, remove from pan and set aside.",
+            "In a large skillet, melt the [b]Butter[/b] over medium-high heat. Add the [b]Onion[/b], [b]Carrots[/b], [b]Celery[/b], and [b]Garlic[/b]. Cook for 5 minutes or until the [b]Carrots[/b] start to soften, stirring frequently.",
+            "Stir in the [b]Flour[/b]. Cook, stirring constantly, for 2 minutes.",
+            "While stirring, slowly pour in the warm [b]Stock[/b] and [b]Double cream[/b]. Stir in the 1/2 tsp [b]Dried thyme[/b], 1 tsp [b]Salt[/b], and 1 tsp [b]Pepper[/b]. Reduce the heat to low and bring to a simmer. Cook just until the [b]Sauce[/b] is thickened, about 5 minutes.",
+            "While the [b]Sauce[/b] thickens shred the [b]Chicken[/b], then Stir in the [b]Chicken[/b] and [b]Peas[/b]. Remove from the heat and transfer the filling into a bowl to cool for 20 minutes.",
+            "Once the [b]Filling[/b] is cool enough, add it to your pie dish and spread evenly, then take a second sheet of [b]Puff pastry[/b] and cover the top of the pie, crimping the sides, and cutting some steam vents into the top.",
+            "Brush the top of the pie with some [b]Double cream[/b] and then place the pie in the oven for 20 minuets or until your happy with how the top looks, then remove from the oven.",
+            "Let the pie rest for at least 20 minuets before plating",
+            "Serve"
+        ],
+
+        "note": "Goes well with a side of buttery mash or chips."
+    },
+  {
+        "id": 24,
+        "title": "Chocolate Chip Cookies",
+        "subtitle": "Crispy exterior, gooey interior, perfect cookies",
+        "category": "Baking",
+        "prep_time": "10  min",
+        "cook_time": "15 min",
+        "serves": 6,
+        "difficulty": "Easy",
+
+        "intro": "Chocolate chip cookies are soft, sweet treats filled with delicious, melty chocolate chips.",
+
+        "image": "images/chocolate_chip_cookies.jpg",
+
+        "ingredients": [
+            {
+                "amount": "360g",
+                "item": "Powdered suger"
+            },
+            {
+                "amount": "43g",
+                "item": "Cocoa powder"
+            },
+            {
+                "amount": "1/2 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "3",
+                "item": "Egg whites"
+            },
+            {
+                "amount": "60g",
+                "item": "Chocolate chips"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Vanilla extract"
+            }
+        ],
+
+        "steps": [
+            "Preheat oven to 175c, line two baking sheets with parchment paper.",
+            "In a bowl whisk together 360g [b]Powdered suger[/b], 43g [b]Cocoa powder[/b], and 1/2 tsp [b]Salt[/b].",
+            "Add to a separate bowl the 3 [b]Egg whites[/b], and the 1 tsp [b]Vanilla[/b], and whisk together, then add to the dry ingredient bowl, stir together until you have a glossy batter.",
+            "Stir in the 60g [b]Chocolate chips[/b].",
+            "Portion 2 tbsp per cookie on the tray, leaving space between as they will spread.",
+            "Bake for 10 minutes, the tops should be shiny and cracked.",
+            "Cool for 5 minutes on the sheet, then move to a rack.",
+            "Serve"
+        ],
+
+        "note": "..."
+    },
+  {
+        "id": 25,
+        "title": "Chocolate Chip Cookie Bars",
+        "subtitle": "soft and chewy chocolate chip cookie bars",
+        "category": "Baking",
+        "prep_time": "10 min",
+        "cook_time": "1 hr",
+        "serves": 12,
+        "difficulty": "Easy",
+
+        "intro": "full of chocolatey goodness with notes of brown sugar, vanilla, and salt.",
+
+        "image": "images/browny_cookies.jpg",
+
+        "ingredients": [
+            {
+                "amount": "270g",
+                "item": "Flour"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Cornstarch"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Baking soda"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "170g",
+                "item": "Butter"
+            },
+            {
+                "amount": "220g",
+                "item": "Light brown suger"
+            },
+            {
+                "amount": "133g",
+                "item": "Suger"
+            },
+            {
+                "amount": "2",
+                "item": "Eggs"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Vanilla extract"
+            },
+            {
+                "amount": "360g",
+                "item": "Chocolate chips"
+            }
+        ],
+
+        "steps": [
+            "Preheat the oven to 180c. Line an 8×8-inch baking pan fully with parchment paper.",
+            "In a medium bowl, whisk to combine the 270g [b]Flour[/b], 1 tbsp [b]Cornstarch[/b], 1 tsp [b]Baking soda[/b], and 1 tsp [b]Salt[/b]. Set aside.",
+            "In a large bowl, combine the 170g [b]Melted butter[/b], the 220g [b]Brown sugar[/b], and 133g [b]White suger[/b]. Whisk together for about 30 seconds to form a somewhat thick slurry.",
+            "Add the 2 [b]Eggs[/b] and 1 tbsp [b]Vanilla[/b] to the [b]Butter mixture[/b] and whisk well for about 1 minute to combine.",
+            "Add the [b]Flour mixture[/b] to the [b]Butter mixture[/b] and stir together with a silicone spatula until almost fully combined. Reserve about ¼ cup of [b]Chocolate chips[/b], and stir the remaining into the dough.",
+            "Dollop the [b]Dough[/b] into the prepared baking pan. Using an offset spatula, spread into an even layer, leaving some texture on top. Sprinkle with the reserved [b]Chocolate chips[/b].",
+            "Bake until the edges are set and golden brown, and a toothpick or skewer inserted into the center comes out with a few moist crumbs. For gooier cookie bars, bake for 35-45 minutes. For firmer bars with crispy, edges bake for up to 55 minutes.",
+            "Let the cookie bars cool in the pan for about an hour before removing and cutting.",
+            "Serve"
+        ],
+
+        "note": "A sprinkle of flaky sea salt on top just after baking provides a nice bit of contrast for a salty-sweet chocolate chip cookie flavor."
+    },
+  {
+        "id": 26,
+        "title": "Thai Cashew Chicken",
+        "subtitle": "Savory chicken with crunchy cashews.",
+        "category": "Chicken",
+        "prep_time": "20 min",
+        "cook_time": "40 min",
+        "serves": 4,
+        "difficulty": "Easy",
+
+        "intro": "Thai cashew chicken is a flavorful stir-fry with tender chicken, crunchy cashews, and fresh vegetables in a savory sauce.",
+
+        "image": "images/thai_cashew_chicken.jpg",
+
+        "ingredients": [
+            {
+                "amount": "600g",
+                "item": "Chicken - diced - thighs or breast"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "White pepper"
+            },
+            {
+                "amount": "2 tbsp",
+                "item": "Light soy sauce"
+            },
+            {
+                "amount": "50g",
+                "item": "Flour"
+            },
+            {
+                "amount": "120ml",
+                "item": "Neutral oil"
+            },
+            {
+                "amount": "200g",
+                "item": "Unsalted cashews"
+            },
+            {
+                "amount": "2",
+                "item": "Red peppers - sliced"
+            },
+            {
+                "amount": "2",
+                "item": "White onions - sliced"
+            },
+            {
+                "amount": "4",
+                "item": "Garlic cloves - grated"
+            },
+            {
+                "amount": "3",
+                "item": "Scallions - sliced"
+            },
+            {
+                "amount": "1.5 tbsp",
+                "item": "Suger"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Oyster sauce"
+            }
+        ],
+
+        "steps": [
+            "This recipe does not include any sides but this dish goes great with chip or noodles.",
+            "Chop the [b]Chicken[/b] into bite size pieces and marinate in the 1 tbsp [b]Light soy sauce[/b] and 1 tsp [b]White pepper[/b] and leave to marinate for 15 minutes.",
+            "To the [b]Chicken[/b] add the 50g [b]Flour[/b] mix till all the [b]Chicken[/b] is coated and set aside.",
+            "Heat a frying pan to medium high heat and add the 120ml [b]Neutral oil[/b], then add the 200g [b]Cashew nuts[/b] and fry until golden, but be careful not to burn them, remove them from the [b]Oil[/b] and set aside.",
+            "To the now flavoured [b]Oil[/b] add the [b]Coated chicken[/b], and fry for 4-5 minutes until the [b]Chicken[/b] is fully cooked, remove from the pan and set aside.",
+            "To the pan add the sliced [b]Peppers[/b] and [b]Onions[/b], fry for 3 minutes, add the [b]Grated garlic[/b] and fry for 1 minute.",
+            "To the pan add the sliced [b]Scallions[/b] and cook for 1 minute, then add the [b]Cooked chicken[/b] and add the 1.5 tbsp [b]Suger[/b], 1 tbsp [b]Oyster sauce[/b], and 1 tbsp [b]Soy sauce[/b], mix together.",
+            "Add the [b]Cashew nuts[/b] and mix well, until piping hot. ",
+            "Serve"
+        ],
+
+        "note": "Great with either Chips or Noodles"
+    },
+  {
+        "id": 27,
+        "title": "Single Serve Double Chocolate Cookie",
+        "subtitle": "When you only want to make 2 cookies",
+        "category": "Baking",
+        "prep_time": "5 min",
+        "cook_time": "11 min",
+        "serves": 1,
+        "difficulty": "Easy",
+
+        "intro": "A rich, chocolately cookie for one.",
+
+        "image": "images/single_serve_double_chocolate_cookie.webp",
+
+        "ingredients": [
+            {
+                "amount": "2 tbsp",
+                "item": "Butter"
+            },
+            {
+                "amount": "4 tbsp",
+                "item": "Brown suger"
+            },
+            {
+                "amount": "1",
+                "item": "Egg yolk"
+            },
+            {
+                "amount": "1/4 tsp",
+                "item": "Vanilla extract"
+            },
+            {
+                "amount": "1.5 tbsp",
+                "item": "Cocoa powder"
+            },
+            {
+                "amount": "1/8 tsp",
+                "item": "Baking soda"
+            },
+            {
+                "amount": "1/8 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "4 tbsp",
+                "item": "Flour"
+            },
+            {
+                "amount": "3 tbsp",
+                "item": "Chocolate chips"
+            }
+        ],
+
+        "steps": [
+            "Preheat the oven to 175c and line a baking sheet with parchment paper. Set aside.",
+            "Place the 2 tbsp [b]Softened butter[/b] and 4 tbsp [b]Brown sugar[/b] in a medium bowl. Use a fork or a whisk to mix together until smooth and homogenous.",
+            "Scrape down the sides of the bowl and add the 1 [b]Egg yolk[/b] and 1/4 tsp [b]Vanilla extract[/b]. Mix until combined.",
+            "Scrape down the bowl and add the 1.5 tbsp [b]Cocoa powder[/b], 4 tbsp [b]Flour[/b], 1/8 tsp [b]Baking soda[/b] and 1/8 tsp [b]Salt[/b]. Mix until just combined and no streaks of flour remain.",
+            "Fold in the [b]Chocolate chips[/b] until evenly distributed.",
+            "Divide the [b]Cookie dough[/b] into 2 big [b]Cookies[/b] and place onto your prepared cookie sheet 2 inches apart.",
+            "Bake at 175c for 11 minutes or until the edges are set but the centers are still gooey.",
+            "Allow to cool for 10 minutes on the baking sheet until set.",
+            "Serve"
+        ],
+
+        "note": "Super quick and easy cookies"
+    },
+  {
+        "id": 28,
+        "title": "Garlic Turmeric Rice with Smoked Sausage",
+        "subtitle": "Quick, easy, delicious",
+        "category": "Rice",
+        "prep_time": "15 min",
+        "cook_time": "20 min",
+        "serves": 4,
+        "difficulty": "Easy",
+
+        "intro": "Savoury garlic turmeric rice with bits of smoked sausage.",
+
+        "image": "images/garlic_turmeric_rice.jpg",
+
+        "ingredients": [
+            {
+                "amount": "4 cups",
+                "item": "Rice - rinsed and washed"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Neutral oil"
+            },
+            {
+                "amount": "100g",
+                "item": "Frozen peas"
+            },
+            {
+                "amount": "100g",
+                "item": "Frozen sweetcorn"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Turmeric powder"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "salt"
+            },
+            {
+                "amount": "1",
+                "item": "Onion - diced"
+            },
+            {
+                "amount": "2-3",
+                "item": "Carrots - diced"
+            },
+            {
+                "amount": "4-6",
+                "item": "Garlic cloves - grated"
+            },
+            {
+                "amount": "600ml",
+                "item": "Chicken stock"
+            },
+            {
+                "amount": "200g",
+                "item": "Smoked Sausage"
+            },
+            {
+                "amount": "To taste",
+                "item": "Salt & Pepper"
+            }
+        ],
+
+        "steps": [
+            "Dice your [b]Onion[/b] and [b]Carrots[/b], set in a bowl, peel your [b]Garlic[/b] set aside.",
+            "Wash and rinse your [b]Rice[/b], set in a rice cooker, add the required amount of [b]Chicken stock[/b] for how much rice your making, and set to cook.",
+            "Meanwhile, in a frying pan set to medium high heat, add 1 tbsp [b]Oil[/b], and fry your diced [b]Onion[/b] and [b]Carrots[/b], for about 4-5 until softened, then add the [b]Grated garlic[/b] and fry for 1 minute. take off heat and set aside.",
+            "In the last few minutes the [b]Rice[/b] is cooking add in the 100g [b]Frozen peas[/b] and 100g [b]Frozen sweetcorn[/b], and mix gently.",
+            "Once the [b]Rice[/b] has finished cooking add the [b]Cooked veggies[/b] and mix together, dice up the 200g [b]Smoked sausage[/b], and add to the pot.",
+            "Leave the rice cooker on keep warm, and leave the [b]Cooked veggies[/b] and [b]Smoked sausage[/b] to come up to temperature.",
+            "Serve"
+        ],
+
+        "note": "Great with store bought prawn crackers."
+    },
+  {
+        "id": 29,
+        "title": "Vegetable Ramen",
+        "subtitle": "A warm, comforting bowl in just 15 minutes",
+        "category": "Noodles",
+        "prep_time": "10 min",
+        "cook_time": "5 min",
+        "serves": 1,
+        "difficulty": "Easy",
+
+        "intro": "A comforting Japanese noodle soup filled with fresh vegetables, noodles, and a rich, savoury broth.",
+
+        "image": "images/vegetable_ramen.jpg",
+
+        "ingredients": [
+            {
+                "amount": "1/8 head",
+                "item": "Cabbage - sliced thinly"
+            },
+            {
+                "amount": "1",
+                "item": "Carrot - sliced thinly"
+            },
+            {
+                "amount": "1/4",
+                "item": "Onion - sliced thinly"
+            },
+            {
+                "amount": "1 pc",
+                "item": "Pac choi - washed and sliced"
+            },
+            {
+                "amount": "1 pack",
+                "item": "Ramen noodles"
+            },
+            {
+                "amount": "1",
+                "item": "Scallion - chopped"
+            },
+            {
+                "amount": "1",
+                "item": "Boiled egg"
+            },
+            {
+                "amount": "570ml",
+                "item": "Chicken stock"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Soy sauce"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Sesame oil"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Black pepper"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Ginger - grated"
+            }
+        ],
+
+        "steps": [
+            "Cut [b]Cabbage[/b], [b]Carrot[/b], [b]Onion[/b], [b]Pac choi[/b], and chop the [b]Scallion[/b].",
+            "Boil and peel your [b]Egg[/b]",
+            "In a large pot, add the 1 tbsp [b]Sesame oil[/b] and bring to a medium heat, once hot add in all the [b]sliced vegetables[/b] and stir fry for 2-3 minutes until slightly softened.",
+            "Add 570ml of [b]Chicken stock[/b], 1 tsp [b]Soy sauce[/b], and the [b]Ramen noodles[/b] directly into the pot. ",
+            "Add grated ginger and black pepper if desired.",
+            "Let everything cook together for about 2 minutes, or until the [b]Noodles[/b] are tender.",
+            "Place the [b]Noodles[/b] and [b]Soup[/b] in a serving bowl, Garnish with chopped [b]Scallion, and drizzle with a little more [b]Sesame oil[/b] if you like, Top with a boiled egg",
+            "Serve"
+        ],
+
+        "note": "You can use a packet of instant ramen noodles or raw ramen noodles"
+    },
+  {
+        "id": 30,
+        "title": "No Bake Biscoff Cheesecake",
+        "subtitle": "Creamy cheesecake with a Biscoff biscuit base",
+        "category": "Baking",
+        "prep_time": "30 min",
+        "cook_time": "5 hr",
+        "serves": 6,
+        "difficulty": "Easy",
+
+        "intro": "Biscoff cheesecake with a creamy filling and crunchy biscuit base.",
+
+        "image": "images/biscoff_cheesecake.jpg",
+
+        "ingredients": [
+            {
+                "amount": "220g",
+                "item": "Biscoff biscuits"
+            },
+            {
+                "amount": "75g",
+                "item": "Butter - melted"
+            },
+            {
+                "amount": "450g",
+                "item": "Softened cream cheese"
+            },
+            {
+                "amount": "240g",
+                "item": "Biscoff spread - softened"
+            },
+            {
+                "amount": "250ml",
+                "item": "Double cream - cold"
+            }
+        ],
+
+        "steps": [
+            "Blitz the [b]Biscoff biscuits[/b] in a food processor until its a fine cumb, add the 75g [b]Melted butter[/b], and mix together, set 1/4 of the mixture aside for garnish later.",
+            "In a 7x3 inch springform pan add the [b]Biscoff butter mix[/b], press it down firmly, set in the fridge to chill while preparing the filling.",
+            "In a bowl, beat together 450g [b]Softened cream cheese[/b] and 240g [b]Softened biscoff spread[/b]. Beat just until smooth, about 20 seconds. Do not over mix. ",
+            "Then add 250ml [b]Cold double cream[/b]. Beat until smooth. Pour batter in the [b]Chilled crust[/b]. Spread evenly. Tap to release excess bubbles. Place in the fridge for at least 5 hours or overnight.",
+            "Then when its chilled, top with [b]Melted biscoff spread[/b]. Tilt pan to spread evenly on top.  Chill again for 15 minutes to set.",
+            "Top with saved crust for garnish",
+            "Serve"
+        ],
+
+        "note": "Super easy, and absolutely delicious"
+    },
+  {
+        "id": 31,
+        "title": "Mary Berry's Sticky Toffee Pudding",
+        "subtitle": "Warm toffee pudding with rich sauce.",
+        "category": "Baking",
+        "prep_time": "20 min",
+        "cook_time": "1 hr",
+        "serves": 6,
+        "difficulty": "Easy",
+
+        "intro": "A moist date sponge drizzled in warm, buttery toffee sauce",
+
+        "image": "images/sticky_toffee_pudding.jpg",
+
+        "ingredients": [
+            {
+                "amount": "200g",
+                "item": "Butter"
+            },
+            {
+                "amount": "300g",
+                "item": "Light brown suger"
+            },
+            {
+                "amount": "2 large",
+                "item": "Eggs"
+            },
+            {
+                "amount": "225g",
+                "item": "Self raising flour"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Baking powder"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Bicarb of soda"
+            },
+            {
+                "amount": " 4 tbsp",
+                "item": "Black treacle"
+            },
+            {
+                "amount": "275ml",
+                "item": "Milk"
+            },
+            {
+                "amount": "300ml",
+                "item": "Double cream"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Vanilla extract"
+            },
+            {
+                "amount": "Optional",
+                "item": "Ice cream to serve"
+            }
+        ],
+
+        "steps": [
+            "Preheat oven to 160c, and butter a shallow 1.7 litre ovenproof dish",
+            "Add 100g [b]Softened butter[/b], 175g [b]Brown suger[/b], 2 [b]Eggs[/b], 225g [b]Flour[/b], 1 tsp [b]Baking powder[/b], 1 tsp [b]Bicarb of soda[/b], 3 tbsp [b]Black treacle[/b], and 275ml [b]Milk[/b]. ",
+            "Beat together with a whisk for 30 seconds or until combined, pour into the prepared baking dish and bake for 35-40 minutes or until well risen and springy in the center.",
+            "For the [b]Sauce[/b], add to a saucepan, 100g [b]Butter[/b], 125g [b]Brown suger[/b], 1 tbsp [b]Black treacle[/b], 300ml [b]Double cream[/b], and 1 tsp [b]Vanilla extract[/b].",
+            "Stir over a low heat until the [b]Suger[/b] has dissolved and the [b]Butter[/b] has melted, then bring to a boil stirring for 1 minute.",
+            "Pour half the [b]Sauce[/b] over the cake in the baking dish and use as much of the leftover [b]Sauce[/b] as you want when grabbing a slice.",
+            "Serve"
+        ],
+
+        "note": "If you want you can add chopped Dates to the cake mixture."
+    },
+  {
+        "id": 32,
+        "title": "Carrot Cake",
+        "subtitle": "Moist carrot cake with creamy frosting.",
+        "category": "Baking",
+        "prep_time": "20 min",
+        "cook_time": "2 hr",
+        "serves": 6,
+        "difficulty": "Easy",
+
+        "intro": "A spiced carrot sponge topped with smooth cream cheese frosting and a hint of cinnamon.",
+
+        "image": "images/carrot_cake.jpg",
+
+        "ingredients": [
+            {
+                "amount": "300g",
+                "item": "Flour"
+            },
+            {
+                "amount": "2 tsp",
+                "item": "Baking powder"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Baking soda"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Cinnamon"
+            },
+            {
+                "amount": "1/2 tsp",
+                "item": "Nutmeg"
+            },
+            {
+                "amount": "320ml",
+                "item": "Vegetable oil"
+            },
+            {
+                "amount": "220g",
+                "item": "Light brown suger"
+            },
+            {
+                "amount": "200g",
+                "item": "White suger"
+            },
+            {
+                "amount": "4 large",
+                "item": "Eggs"
+            },
+            {
+                "amount": "2 tsp",
+                "item": "Vanilla extract"
+            },
+            {
+                "amount": "315g",
+                "item": "Carrot - grated"
+            },
+            {
+                "amount": "120g",
+                "item": "Pecans - chopped"
+            },
+            {
+                "amount": "225g",
+                "item": "Cream cheese"
+            },
+            {
+                "amount": "227g",
+                "item": "Butter - softened"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Vanilla extract"
+            },
+            {
+                "amount": "480-600g",
+                "item": "Powdered suger"
+            }
+        ],
+
+        "steps": [
+            "Preheat the oven to 180c. Lightly grease two 9-inch round cake pans with baking spray or butter, and line the bottoms with parchment paper",
+            "In a large mixing bowl, whisk together the 300g [b]Flour[/b], 2 tsp [b]Baking powder[/b], 1 tsp [b]Baking soda[/b], 1 tsp [b]Salt[/b], 1 tsp [b]Cinnamon[/b], and 1/2 tsp [b]Nutmeg[/b].",
+            "In a separate medium bowl, whisk together the 220g [b]Brown sugar[/b], 200g [b]White suger[/b], 320ml [b]Vegetable oil[/b], 4 [b]Eggs[/b], and 2 tsp [b]Vanilla extract[/b] until well combined.",
+            "Pour the [b]Wet ingredients[/b] into the [b]Dry mixture[/b] and stir together just until combined and only a few streaks of flour remain.",
+            "Fold the 315g [b]Grated carrots[/b] and 120g [b]Chopped pecans[/b] into the batter. Divide the batter evenly into the prepared pans.",
+            "Bake for 30 to 35 minutes, or until a toothpick inserted into the center comes out clean. Allow the cake layers to cool completely in the pans set on a wire cooling rack. Once cooled, invert the layers and remove the parchment paper.",
+            "In a large mixing bowl with a hand mixer or a stand mixer, beat 227g [b]Softened butter[/b] on medium speed until very soft and smooth, about 1 minute. Add the 225g [b]Cream cheese[/b] and beat until fluffy, about 30 seconds",
+            "With the mixer on low speed, gradually add in the 480-600g [b]Powdered sugar[/b]. (Use more sugar for a firmer, sweeter frosting.) Once combined, scrap down the bowl and add the 1 tsp [b]Vanilla[/b]. Beat on medium-low speed until fluffy and easily spreadable, about 1 minute.",
+            "Place one [b]Cooled cake layer[/b] top-side up on a cake stand or serving platter and spread some [b]Frosting[/b] over the top, all the way to the edge of the cake. Place the other [b]Cake layer[/b] top-side down on top. Spread the remaining [b]Frosting[/b] over the top and side of the cake.",
+            "Serve"
+        ],
+
+        "note": "You can top with extra chopped pecans at the end if desired."
+    },
+  {
+        "id": 33,
+        "title": "Lentil Chilli",
+        "subtitle": "A Delicious meat-free chilli",
+        "category": "Chilli",
+        "prep_time": "5 min",
+        "cook_time": "45 min",
+        "serves": 5,
+        "difficulty": "Easy",
+
+        "intro": "A hearty lentil chilli packed with beans, vegetables, and warming spices.",
+
+        "image": "images/lentil_chilli.webp",
+
+        "ingredients": [
+            {
+                "amount": "1",
+                "item": "Red onion - chopped"
+            },
+            {
+                "amount": "1.5 tsp",
+                "item": "Chilli powder"
+            },
+            {
+                "amount": "2 tsp",
+                "item": "Paprika"
+            },
+            {
+                "amount": "2 tsp",
+                "item": "Cumin"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Garlic granules"
+            },
+            {
+                "amount": "2 tbsp",
+                "item": "Tomato puree"
+            },
+            {
+                "amount": "450g",
+                "item": "Cooked green lentils"
+            },
+            {
+                "amount": "400g",
+                "item": "Tinned tomatoes"
+            },
+            {
+                "amount": "250ml",
+                "item": "Vegetable stock"
+            },
+            {
+                "amount": "225g",
+                "item": "Grated cheese"
+            },
+            {
+                "amount": "To taste",
+                "item": "Salt & Pepper"
+            },
+            {
+                "amount": "8-12",
+                "item": "Cherry tomatoes"
+            },
+            {
+                "amount": "300g",
+                "item": "Sweetcorn"
+            },
+            {
+                "amount": "1 tin",
+                "item": "Black beans"
+            },
+            {
+                "amount": "4 tbsp",
+                "item": "Sour cream"
+            },
+            {
+                "amount": "1",
+                "item": "Multipack chilli doritos"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Neutral oil"
+            }
+        ],
+
+        "steps": [
+            "This recipe does not cover what to serve the dish with but it does pair well with Rice, or Chips.",
+            "Preheat the oven to 180c.",
+            "Heat a drizzle of [b]Oil[/b] in a large non-stick frying pan. Add the [b]Onion[/b] and fry on a medium heat for 5 minutes until soft.",
+            "Stir in the 1.5 tsp [b]Chilli powder[/b], 2 tsp [b]Paprika[/b], 2 tsp [b]Cumin[/b], 1 tsp [b]Garlic granules[/b], and 2 tbsp [b]Tomato puree[/b]. Fry for another minute.",
+            "Add the [b]Drained lentils[/b] with the [b]Tinned tomatoes[/b], can of [b]Black beans[/b], and 250ml [b]Stock[/b]. Season with [b]Salt & Pepper[/b] and give it a good stir.",
+            "Bring to the boil, then simmer on a medium heat for 7-10 minuets stirring regularly until the [b]Chilli[/b] has thickened.",
+            "Pour into an overproof dish, cover with the [b]Grated cheese[/b], then broil in the oven for 20-25 minutes.",
+            "Plate up a portion and serve with quartered [b]Cherry tomatoes[/b], some [b]Sweetcorn[/b], a dollop of [b]Sour cream[/b], and a pack of [b]Chilli doritos[/b]",
+            "Serve"
+        ],
+
+        "note": "Also goes well served with some sliced avocado."
+    },
+  {
+        "id": 34,
+        "title": "Cozy Chicken & Dumplings",
+        "subtitle": "A comfort food staple",
+        "category": "Soup",
+        "prep_time": "20 min",
+        "cook_time": "40 min",
+        "serves": 6,
+        "difficulty": "Easy",
+
+        "intro": "A comforting chicken soup with tender vegetables and fluffy homemade dumplings.",
+
+        "image": "images/cozy_chicken.jpg",
+
+        "ingredients": [
+            {
+                "amount": "2 tbsp",
+                "item": "Neutral oil"
+            },
+            {
+                "amount": "900g",
+                "item": "Chicken breasts - diced"
+            },
+            {
+                "amount": "1 large",
+                "item": "Onion - diced"
+            },
+            {
+                "amount": "4",
+                "item": "Carrots - diced"
+            },
+            {
+                "amount": "3",
+                "item": "Garlic cloves - minced"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "70g",
+                "item": "Butter"
+            },
+            {
+                "amount": "6 tbsp",
+                "item": "Flour"
+            },
+            {
+                "amount": "1400ml",
+                "item": "Chicken stock"
+            },
+            {
+                "amount": "120ml",
+                "item": "Double cream"
+            },
+            {
+                "amount": "1/2 tsp",
+                "item": "Dried thyme"
+            },
+            {
+                "amount": "2",
+                "item": "Bay leaves"
+            },
+            {
+                "amount": "220g",
+                "item": "Frozen peas"
+            },
+            {
+                "amount": "4 tbsp",
+                "item": "Parsley - chopped"
+            },
+            {
+                "amount": "120g",
+                "item": "Flour"
+            },
+            {
+                "amount": "1/2 tbsp",
+                "item": "Baking powder"
+            },
+            {
+                "amount": "1/4 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "1/4 tsp",
+                "item": "Pepper"
+            },
+            {
+                "amount": "150ml",
+                "item": "Double cream"
+            }
+        ],
+
+        "steps": [
+            "In a dutch oven, cook [b]Chicken[/b] over medium-high heat until brown on both sides, Once [b]Chicken pieces[/b] are browned, remove and set aside. ",
+            "Add diced [b]Carrot[/b] and [b]Onion[/b] and cook until just tender, about 3 minutes, Add [b]Chopped garlic[/b] and stir for another minute.",
+            "Reduce heat to medium-low and add 70g [b]Butter[/b] and 6 tbsp [b]Flour[/b], stirring constantly for 3 minutes to avoid lumps.",
+            "Add the cooked [b]Chicken[/b] and any accumulated juices back to dutch oven and stir to to coat in [b]Roux/Vegetable mix[/b].",
+            "Add 1400ml [b]Chicken stock[/b], 120ml [b]Cream[/b], 1/2 tsp [b]Dried thyme[/b], and 2 [b]Bay leaves[/b] and bring to a simmer. Once [b]Soup[/b] is at a simmer, add 220g [b]Frozen peas[/b] and cover.",
+            "In a separate bowl, combine 120g [b]Flour, 1/2 tbsp [b]Baking powder[/b], 1/4 tsp [b]Salt[/b], 1/4 tsp [b]Pepper[/b], and 150ml [b]Cream[/b]. Stir until mixture comes together into single mass of [b]Dough[/b]. ",
+            "Using a large spoon or ice cream scoop, form [b]Dough[/b] into small round balls about 1 inch in diameter (this dough mixture should yield 7-8 dumplings).",
+            "Place 7-8 [b]Dough balls[/b] into simmering soup (making sure they don’t touch), and cover. Let soup simmer for 15 minutes or until [b]Dumplings[/b] are cooked (they should pass the toothpick test). ",
+            "Ladle into bowl, giving 1-2 [b]Dumplings[/b] per serving.",
+            "Serve"
+        ],
+
+        "note": "Can be made without the dumplings if you dont like them."
+    },
+  {
+        "id": 35,
+        "title": "Simple Chicken Korma",
+        "subtitle": "Creamy chicken curry with aromatic spices.",
+        "category": "Chicken",
+        "prep_time": "10 min",
+        "cook_time": "30 min",
+        "serves": 4,
+        "difficulty": " ",
+
+        "intro": "A rich and creamy chicken korma with lots of flavour.",
+
+        "image": "images/simple_korma.jpg",
+
+        "ingredients": [
+            {
+                "amount": "2 tbsp",
+                "item": "Neutral oil"
+            },
+            {
+                "amount": "520g",
+                "item": "Chicken breast - diced into chunks"
+            },
+            {
+                "amount": "1",
+                "item": "Onion - diced"
+            },
+            {
+                "amount": "2",
+                "item": "Garlic cloves - grated"
+            },
+            {
+                "amount": "2 tsp",
+                "item": "Ginger - grated"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Ground cumin"
+            },
+            {
+                "amount": "1.5 tsp",
+                "item": "Ground coriander"
+            },
+            {
+                "amount": "1.5 tsp",
+                "item": "Garam masala"
+            },
+            {
+                "amount": "1/2 tsp",
+                "item": "Chilli powder"
+            },
+            {
+                "amount": "1/2 tsp",
+                "item": "Turmeric"
+            },
+            {
+                "amount": "1/4 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "1/4 tsp",
+                "item": "White pepper"
+            },
+            {
+                "amount": "2 tbsp",
+                "item": "Tomato puree"
+            },
+            {
+                "amount": "120ml",
+                "item": "Plain natural yoghurt"
+            },
+            {
+                "amount": "120ml",
+                "item": "Coconut cream"
+            },
+            {
+                "amount": "2 tbsp",
+                "item": "Ground almonds"
+            },
+            {
+                "amount": "1 tbsp",
+                "item": "Suger"
+            },
+            {
+                "amount": "60ml",
+                "item": "Double cream"
+            }
+        ],
+
+        "steps": [
+            "This recipe is just for the chicken korma itself, but this dish goes great with Chips, or Rice.",
+            "Heat the 2 tbsp [b]Oil[/b] in a large frying pan over a medium heat, until hot.",
+            "Add the [b]Diced onion[/b] and cook for 5 minutes, stirring often, until softened.",
+            "Add the [b]Diced chicken breasts[/b] and cook for 5 minutes, stirring occasionally, until the [b]Chicken[/b] is sealed.",
+            "Add the [b]Grated garlic[/b], 2 tsp [b]Grated ginger[/b], 1 tsp [b]Ground cumin[/b], 1.5 tsp [b]Ground coriander[/b], 1.5 tsp [b]Garam masala[/b], 1/2 tsp [b]Chilli powder[/b], 1/2 tsp [b]Turmeric[/b], 1/4 tsp [b]Salt[/b], 1/4 tsp [b]White pepper[/b], and 2 tbsp [b]Tomato puree[/b].",
+            "Cook for 2 minutes, stirring, until the [b]Chicken[/b] is coated.",
+            "Add the 120ml [b]Yogurt[/b], 120ml [b]Coconut cream[/b], 2 tbsp [b]Ground almonds[/b], and 1 tbsp [b]Sugar[/b].",
+            "Stir everything together, bring to a gentle boil, then simmer for 6-8 minutes, until the [b]Chicken[/b] is cooked through.",
+            "Stir in the 60ml [b]Double cream[/b] and turn off the heat.",
+            "Serve"
+        ],
+
+        "note": "Great with Rice or Chips, and Naan breads."
+    },
+  {
+        "id": 36,
+        "title": "Lentil Bolognese",
+        "subtitle": "Lentil bolognese with hearty vegetables.",
+        "category": "Lentil",
+        "prep_time": "20 min",
+        "cook_time": "40 min",
+        "serves": 5,
+        "difficulty": "Easy",
+
+        "intro": "A hearty lentil-based Bolognese simmered with tomatoes, herbs, and vegetables.",
+
+        "image": "images/lentil_bolognese.jpg",
+
+        "ingredients": [
+            {
+                "amount": "2 tbsp",
+                "item": "Olive oil"
+            },
+            {
+                "amount": "1",
+                "item": "Onion - diced"
+            },
+            {
+                "amount": "1 rib",
+                "item": "Celery - diced"
+            },
+            {
+                "amount": "2",
+                "item": "Carrots - diced"
+            },
+            {
+                "amount": "3",
+                "item": "Garlic cloves - chopped"
+            },
+            {
+                "amount": "2 tbsp",
+                "item": "Tomato puree"
+            },
+            {
+                "amount": "1/2 tsp",
+                "item": "Dried rosemary"
+            },
+            {
+                "amount": "2",
+                "item": "Bay leaves"
+            },
+            {
+                "amount": "200g",
+                "item": "Mushrooms - grated"
+            },
+            {
+                "amount": "700g",
+                "item": "Tomato passata"
+            },
+            {
+                "amount": "2 cans",
+                "item": "Green lentils"
+            },
+            {
+                "amount": "1 tsp",
+                "item": "Salt"
+            },
+            {
+                "amount": "1/2 tsp",
+                "item": "Black pepper"
+            },
+            {
+                "amount": "80ml",
+                "item": "Milk"
+            },
+            {
+                "amount": "60ml",
+                "item": "Soy sauce"
+            }
+        ],
+
+        "steps": [
+            "This recipe is just for the bolognese itself and not any side, however this dish goes great with Spaghetti, Pasta, Rice, or Chips.",
+            "Finely chop 1 [b]Onion[/b], 1 rib [b]Celery[/b], 2 [b]Carrots[/b], and 3 [b]Garlic cloves[/b] with a knife or pulse them in a food processor.",
+            "Heat 2 tbsp [b]Olive oil[/b] in a large pot. Add the [b]Chopped vegetables[/b] and sauté for 3 minutes on medium heat, stirring often.",
+            "Add 2 tbsp [b]Tomato puree[/b], 200g [b]Grated mushrooms[/b] (grated with the large holes of a box grater), ½ tsp [b]Dried Rosemary[/b], 2 [b]Bay leaves[/b], 1 tsp [b]Salt[/b], 1/2 tsp [b]Black pepper[/b], and sauté for 5 minutes, stirring occasionally.",
+            "Rinse the [b]Lentils[/b], then add to the pot, with 700g [b]Tomato passata[/b], and simmer for 20 minutes or until the [b]Sauce[/b] thickens.",
+            "Remove the 2 [b]Bay leaves[/b], stir in the 80ml [b]Milk[/b], and 60ml [b]Soy sauce[/b], then using a hand blender, blitz some of the [b]Sauce[/b] until you reach your desired texture.",
+            "Serve"
+        ],
+
+        "note": "great with spaghetti, pasta, rice, or chips"
+    },
+  {
+        "id": 37,
+        "title": "Next Recipe Placeholder",
         "subtitle": " ",
         "category": " ",
         "prep_time": "  min",
